@@ -41,6 +41,7 @@ Du kan også lage css'en selv, eller du kan bruke styled-components.
 
 
 # Hvordan komme i gang
+Vi anbefaler node versjon 14++
 Clone / Fork prosjektet
 ```
 $ npm install
