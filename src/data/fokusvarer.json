@@ -1,0 +1,2727 @@
+{
+  "title": "Fokusvarer",
+  "nobbProducts": [
+    {
+      "nobbNr": 10541274,
+      "varetekst1": "HUNTON VINDSPERRE 12X1200X2740",
+      "varetekst2": "HUNTON VINDTETT TREFIBER 95 PK",
+      "langVaretekst": "HUNTON VINDSPERRE 12X1200X2740, HUNTON VINDTETT TREFIBER 95 PK",
+      "prisEnhet": "M_2",
+      "created": "2004-06-27T15:30:57.543",
+      "updated": "2020-02-27T00:02:22.76",
+      "vareType": "STANDARD",
+      "produsentVareNr": "5000",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0930250",
+        "beskrivelse": "Vindsperre"
+      },
+      "nobbModul": {
+        "nobbModulNr": 24409997,
+        "merkenavn": "Hunton Vindtett",
+        "modultekst1": "HUNTON VINDSPERRE TREFIBERPLATER",
+        "modultekst2": "VINDAVSTIVENDE TILLEGGSISOLERING.",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0930250",
+          "beskrivelse": "Vindsperre"
+        }
+      }
+    },
+    {
+      "nobbNr": 10541928,
+      "varetekst1": "HUNTONIT SUTAKPLATE ASFALTIMPR",
+      "varetekst2": "3,2X1240X1600MM",
+      "langVaretekst": "HUNTONIT Sutakplate asfaltimpregnert 3,2x1240x1600mm",
+      "prisEnhet": "M_2",
+      "created": "2004-06-27T15:30:57.543",
+      "updated": "2019-12-20T13:01:00.503",
+      "vareType": "STANDARD",
+      "produsentVareNr": "118100",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940110",
+        "beskrivelse": "Trefiberplater Ubehandlet"
+      },
+      "nobbModul": {
+        "nobbModulNr": 25502725,
+        "merkenavn": "HUNTONIT",
+        "modultekst1": "HUNTONIT SUTAK TREFIB UNDERTAKPLATE",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940110",
+          "beskrivelse": "Trefiberplater Ubehandlet"
+        }
+      }
+    },
+    {
+      "nobbNr": 10910982,
+      "varetekst1": "FORESTIA SPONPL GULV STD 2420",
+      "varetekst2": "22X620X2420 GULV P6 STD",
+      "langVaretekst": "FORESTIA Gulv Standard P6, 22x620x2420mm",
+      "prisEnhet": "M_2",
+      "created": "2004-06-27T15:30:57.543",
+      "updated": "2020-03-13T13:34:23.353",
+      "vareType": "STANDARD",
+      "produsentVareNr": "10910982",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940010",
+        "beskrivelse": "Sponplater Ubehandlet"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41715059,
+        "merkenavn": "Forestia ",
+        "modultekst1": "FORESTIA GULV",
+        "modultekst2": "UNDERGULV",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940010",
+          "beskrivelse": "Sponplater Ubehandlet"
+        }
+      }
+    },
+    {
+      "nobbNr": 10910990,
+      "varetekst1": "FORESTIA SPONPL GULV EX 2420",
+      "varetekst2": "22X620X2420 GULV EKSTRA P5 NF 4S",
+      "langVaretekst": "FORESTIA Gulv Ekstra P5, 22x620x2420mm",
+      "prisEnhet": "M_2",
+      "created": "2004-06-27T15:30:57.543",
+      "updated": "2020-03-13T13:34:23.353",
+      "vareType": "STANDARD",
+      "produsentVareNr": "10910990",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940010",
+        "beskrivelse": "Sponplater Ubehandlet"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41715059,
+        "merkenavn": "Forestia ",
+        "modultekst1": "FORESTIA GULV",
+        "modultekst2": "UNDERGULV",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940010",
+          "beskrivelse": "Sponplater Ubehandlet"
+        }
+      }
+    },
+    {
+      "nobbNr": 21055918,
+      "varetekst1": "EPS S80 100X600X1200 GLAVA",
+      "varetekst2": "100X600X1200MM",
+      "langVaretekst": "EPS S80 100X600X1200 GLAVA, 100X600X1200MM",
+      "prisEnhet": "M_2",
+      "created": "2004-06-27T15:30:57.543",
+      "updated": "2019-07-01T00:00:00",
+      "vareType": "STANDARD",
+      "produsentVareNr": "430010",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0930110",
+        "beskrivelse": "Ekspandert Polystyren Eps"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41745534,
+        "merkenavn": "Glava A/S",
+        "modultekst1": "EPS S 80 GLAVA",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0930110",
+          "beskrivelse": "Ekspandert Polystyren Eps"
+        }
+      }
+    },
+    {
+      "nobbNr": 21059829,
+      "varetekst1": "SPONPLATELIM 2511 0,3 L",
+      "varetekst2": "",
+      "langVaretekst": "BOSTIK SPONPLATELIM 2511 0.3 L",
+      "prisEnhet": "STK",
+      "created": "2004-06-27T15:30:57.543",
+      "updated": "2018-12-11T10:41:46.153",
+      "vareType": "STANDARD",
+      "produsentVareNr": "30811498",
+      "nobbVaregruppe": {
+        "varegruppeNr": "2020600",
+        "beskrivelse": "Monterings-/Settlim"
+      },
+      "nobbModul": {
+        "nobbModulNr": 21520200,
+        "merkenavn": "BOSTIK",
+        "modultekst1": "MONTERINGSLIM",
+        "nobbVaregruppe": {
+          "varegruppeNr": "2020600",
+          "beskrivelse": "Monterings-/Settlim"
+        }
+      }
+    },
+    {
+      "nobbNr": 21414875,
+      "varetekst1": "DØRBL EASY GW 9X21 HVIT",
+      "varetekst2": "LETT GLATT DØR",
+      "langVaretekst": "Dørblad Easy GW 9x21 Hvitmalt enkel slett lettdør SWEDOOR",
+      "prisEnhet": "STK",
+      "created": "2004-06-27T15:30:57.543",
+      "updated": "2019-08-20T16:00:24.173",
+      "vareType": "STANDARD",
+      "produsentVareNr": "010006",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1310500",
+        "beskrivelse": "Glatte Dører"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41695544,
+        "merkenavn": "Swedoor",
+        "modultekst1": "EASY DØRBLAD HVIT",
+        "modultekst2": "MALT SLETT LETTDØR",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1310500",
+          "beskrivelse": "Glatte Dører"
+        }
+      }
+    },
+    {
+      "nobbNr": 21514146,
+      "varetekst1": "XPS STYROFOAM 250 SL-A-N 50MM DOW",
+      "varetekst2": "50X585X1185MM  8STK.  5,55 M2/PK",
+      "langVaretekst": "XPS STYROFOAM 250 SL-A-N 50MM DOW, 50X585X1185MM  8STK.  5,55 M2/PK",
+      "prisEnhet": "M_2",
+      "created": "2004-06-27T15:30:57.543",
+      "updated": "2019-07-01T00:00:00",
+      "vareType": "STANDARD",
+      "produsentVareNr": "435050",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0930120",
+        "beskrivelse": "Ekstrudert Polystyren Xps"
+      },
+      "nobbModul": {
+        "nobbModulNr": 21514138,
+        "merkenavn": "Glava",
+        "modultekst1": "STYROFOAM 250 SL-A-N GLAVA",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0930120",
+          "beskrivelse": "Ekstrudert Polystyren Xps"
+        }
+      }
+    },
+    {
+      "nobbNr": 21988878,
+      "varetekst1": "DØRBL STYLE 03 9X21 HVIT",
+      "varetekst2": "FORMPRESSET DØR 3 SPEIL",
+      "langVaretekst": "Dørblad Style 03 9x21 Hvitmalt formpresset SWEDOOR",
+      "prisEnhet": "STK",
+      "created": "2004-06-27T15:30:57.543",
+      "updated": "2019-08-20T16:00:24.16",
+      "vareType": "STANDARD",
+      "produsentVareNr": "130218",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1310400",
+        "beskrivelse": "Formpressede Dører"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41695701,
+        "merkenavn": "Swedoor",
+        "modultekst1": "STYLE 03 DØRBL HVIT",
+        "modultekst2": "MALT FORMPRESSET LETTDØR",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1310400",
+          "beskrivelse": "Formpressede Dører"
+        }
+      }
+    },
+    {
+      "nobbNr": 23382187,
+      "varetekst1": "TAKPL POWERTEKK SORT ISOLA",
+      "varetekst2": "DEKKENDE AREAL PR PLATE 0,41M2",
+      "langVaretekst": "TAKPLATE POWERTEKK  SORT ISOLA",
+      "prisEnhet": "PLA",
+      "created": "2004-06-27T15:30:57.543",
+      "updated": "2020-01-17T11:56:27.197",
+      "vareType": "STANDARD",
+      "produsentVareNr": "780013",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1021610",
+        "beskrivelse": "Takplater Stål"
+      },
+      "nobbModul": {
+        "nobbModulNr": 23382195,
+        "merkenavn": "Isola Powertekk",
+        "modultekst1": "POWERTEKK PLATE",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1021610",
+          "beskrivelse": "Takplater Stål"
+        }
+      }
+    },
+    {
+      "nobbNr": 23533425,
+      "varetekst1": "FURU 19X148 DF EP 28° BRUN ROYAL",
+      "varetekst2": "MØREROYAL BRUN RB.10",
+      "langVaretekst": "FURU 19X148 DOBBELFALS KLEDNING ENDEPLØYD 28° RB.10 BRUN MØREROYAL, GAMMEL TYPE",
+      "prisEnhet": "LM",
+      "created": "2004-06-27T15:30:57.543",
+      "updated": "2019-09-19T15:24:46.193",
+      "vareType": "STANDARD",
+      "produsentVareNr": "26220191481017",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0504395",
+        "beskrivelse": "Profilert Kledning Royalimp"
+      },
+      "nobbModul": {
+        "nobbModulNr": 23586365,
+        "merkenavn": "Talgø MøreRoyal®",
+        "modultekst1": "ROYALIMPREGNERT PROFILERT KLEDNING",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0504395",
+          "beskrivelse": "Profilert Kledning Royalimp"
+        }
+      }
+    },
+    {
+      "nobbNr": 23586035,
+      "varetekst1": "FURU 19X148 DF EP 60° BRUN ROYAL",
+      "varetekst2": "MØREROYAL BRUN RB.10",
+      "langVaretekst": "FURU 19X148 DOBBELFALS KLEDNING ENDEPLØYD 60° RB.10 BRUN MØREROYAL, NY TYPE",
+      "prisEnhet": "LM",
+      "created": "2004-06-27T15:30:57.543",
+      "updated": "2019-09-19T15:24:46.193",
+      "vareType": "STANDARD",
+      "produsentVareNr": "26230191481017",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0504395",
+        "beskrivelse": "Profilert Kledning Royalimp"
+      },
+      "nobbModul": {
+        "nobbModulNr": 23586365,
+        "merkenavn": "Talgø MøreRoyal®",
+        "modultekst1": "ROYALIMPREGNERT PROFILERT KLEDNING",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0504395",
+          "beskrivelse": "Profilert Kledning Royalimp"
+        }
+      }
+    },
+    {
+      "nobbNr": 25402678,
+      "varetekst1": "OVERLAG SELVBYGGER 7M SORT ISOLA",
+      "langVaretekst": "Isola Selvbygger takbelegg, sort,  7m",
+      "prisEnhet": "RUL",
+      "created": "2004-06-27T15:30:57.543",
+      "updated": "2020-03-09T12:00:03.63",
+      "vareType": "STANDARD",
+      "produsentVareNr": "521113",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1024200",
+        "beskrivelse": "Asfalt Takbelegg Overlag"
+      },
+      "nobbModul": {
+        "nobbModulNr": 11175437,
+        "merkenavn": "Isola Selvbygger",
+        "modultekst1": "OVERLAG SELVBYGGER",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1024200",
+          "beskrivelse": "Asfalt Takbelegg Overlag"
+        }
+      }
+    },
+    {
+      "nobbNr": 27546480,
+      "varetekst1": "DØRBL COMPACT 03 9X21 HVIT",
+      "varetekst2": "FORMPRESSET DØR 3 SPEIL",
+      "langVaretekst": "Dørblad Compact 03 9x21 Hvit massiv formpresset SWEDOOR",
+      "prisEnhet": "STK",
+      "created": "2006-01-14T00:32:21.747",
+      "updated": "2019-08-20T16:00:24.237",
+      "vareType": "STANDARD",
+      "produsentVareNr": "084018",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1310400",
+        "beskrivelse": "Formpressede Dører"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41695818,
+        "merkenavn": "Swedoor",
+        "modultekst1": "COMPACT 03 DØRBL HVIT",
+        "modultekst2": "MALT MASSIV FORMPRESSET DØR",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1310400",
+          "beskrivelse": "Formpressede Dører"
+        }
+      }
+    },
+    {
+      "nobbNr": 29721180,
+      "varetekst1": "HUNTONIT TREFIB TAKPLATE ANTIKK 620",
+      "varetekst2": "11X620X1220 RM NCS S 0502-Y",
+      "langVaretekst": "HUNTONIT Takplate i trefiber, Antikk rullemalt Hvit NCS S 0502-Y 11x620x1220mm, netto: 11x600x1200mm",
+      "prisEnhet": "M_2",
+      "created": "2005-06-10T01:10:21.64",
+      "updated": "2020-03-17T18:00:18.817",
+      "vareType": "STANDARD",
+      "produsentVareNr": "231301",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940120",
+        "beskrivelse": "Trefiberplater Ferdigbehandlet"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41924166,
+        "merkenavn": "HUNTONIT",
+        "modultekst1": "HUNTONIT BASIC CEILING",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940120",
+          "beskrivelse": "Trefiberplater Ferdigbehandlet"
+        }
+      }
+    },
+    {
+      "nobbNr": 29734449,
+      "varetekst1": "HUNTONIT TREFIB TAKPL SYMF 1820 HVI",
+      "varetekst2": "11X300X1820 RM NCS S 0502-Y",
+      "langVaretekst": "HUNTONIT Takplate i trefiber, Symfoni Hvit NCS S 0502-Y 11x300x1820mm, netto: 11x280x1800mm",
+      "prisEnhet": "M_2",
+      "created": "2005-06-10T01:10:27.903",
+      "updated": "2020-03-17T18:00:18.83",
+      "vareType": "STANDARD",
+      "produsentVareNr": "231511",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940120",
+        "beskrivelse": "Trefiberplater Ferdigbehandlet"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41904101,
+        "merkenavn": "HUNTONIT",
+        "modultekst1": "HUNTONIT TEXTURE CEILING",
+        "modultekst2": "TAKPLATER MED STRUKTUR I OVERFLATEN",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940120",
+          "beskrivelse": "Trefiberplater Ferdigbehandlet"
+        }
+      }
+    },
+    {
+      "nobbNr": 30869036,
+      "varetekst1": "DØRSETT YD P-100 10X21H HVIT",
+      "varetekst2": "M/SYLINDER CLEVER-LINE",
+      "langVaretekst": "Dørsett P-100 10x21 Høyre Hvitmalt med en lett fullisolert kjerne. SWEDOOR",
+      "prisEnhet": "STK",
+      "created": "2007-09-05T01:19:37.067",
+      "updated": "2019-07-01T00:00:00",
+      "vareType": "STANDARD",
+      "produsentVareNr": "981198",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1330100",
+        "beskrivelse": "Hovedinngangsdør "
+      },
+      "nobbModul": {
+        "nobbModulNr": 41693880,
+        "merkenavn": "Swedoor",
+        "modultekst1": "CLEVER-LINE DØRSETT P-100 HVIT",
+        "modultekst2": "MALT YTTERDØRSETT",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1330100",
+          "beskrivelse": "Hovedinngangsdør "
+        }
+      }
+    },
+    {
+      "nobbNr": 41515149,
+      "varetekst1": "FURU 28X120 ROYAL BRUN TERRASS",
+      "varetekst2": "RB.10",
+      "langVaretekst": "FURU 28X120 ROYALIMPREGNERT BRUN TERRASSEBORD",
+      "prisEnhet": "LM",
+      "created": "2008-08-09T00:30:56.003",
+      "updated": "2020-03-13T16:00:20.2",
+      "vareType": "STANDARD",
+      "produsentVareNr": "221702812011",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0506695",
+        "beskrivelse": "Terrassebord Royalimp"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41346685,
+        "merkenavn": "Marnar Bruk",
+        "modultekst1": "ROYALIMPR. TERRASSEBORD",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0506695",
+          "beskrivelse": "Terrassebord Royalimp"
+        }
+      }
+    },
+    {
+      "nobbNr": 41617119,
+      "varetekst1": "DØRBL UNIQUE 01L 9X21 HVIT",
+      "varetekst2": "MALT FYLLINGSDØR 1 SPEIL",
+      "langVaretekst": "SWEDOOR Unique 01L moderne massiv fyllingsdør 9x21 Hvit NCS S0502-Y (bomull)",
+      "prisEnhet": "STK",
+      "created": "2008-09-13T00:34:26.24",
+      "updated": "2019-08-20T16:00:16.253",
+      "vareType": "STANDARD",
+      "produsentVareNr": "087918",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1310100",
+        "beskrivelse": "Fyllingsdører"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41603077,
+        "merkenavn": "Swedoor",
+        "modultekst1": "UNIQUE 01L DØRBL HVIT",
+        "modultekst2": "MALT MODERNE FYLLINGSDØR",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1310100",
+          "beskrivelse": "Fyllingsdører"
+        }
+      }
+    },
+    {
+      "nobbNr": 42511541,
+      "varetekst1": "DØRSETT YD 10X21H MICHIGAN HVIT",
+      "varetekst2": "YTTERDØRSETT MED KLART GLASS",
+      "langVaretekst": "Dørsett Michigan 10x21 Høyre Hvitmalt med trefiberkjerne og klart glass SWEDOOR",
+      "prisEnhet": "STK",
+      "created": "2009-08-18T00:00:00",
+      "updated": "2019-12-04T12:00:00.83",
+      "vareType": "STANDARD",
+      "produsentVareNr": "961388",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1330100",
+        "beskrivelse": "Hovedinngangsdør "
+      },
+      "nobbModul": {
+        "nobbModulNr": 41693870,
+        "merkenavn": "Swedoor",
+        "modultekst1": "FUNCTION DØRSETT MICHIGAN HVIT",
+        "modultekst2": "MALT YTTERDØRSETT M/GLASS",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1330100",
+          "beskrivelse": "Hovedinngangsdør "
+        }
+      }
+    },
+    {
+      "nobbNr": 42750445,
+      "varetekst1": "HUNTONIT TREFIB SKYGGE 2390 HVIT",
+      "varetekst2": "11X620X2390 KM NCS S 0502-Y",
+      "langVaretekst": "HUNTONIT Veggplate i trefiber, Skygge kostemalt Hvit NCS S 0502-Y 11x620x2390mm",
+      "prisEnhet": "M_2",
+      "created": "2009-11-02T11:32:27.453",
+      "updated": "2020-03-17T18:00:18.83",
+      "vareType": "STANDARD",
+      "produsentVareNr": "231850",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940120",
+        "beskrivelse": "Trefiberplater Ferdigbehandlet"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41924121,
+        "merkenavn": "HUNTONIT",
+        "modultekst1": "HUNTONIT BASIC WALL",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940120",
+          "beskrivelse": "Trefiberplater Ferdigbehandlet"
+        }
+      }
+    },
+    {
+      "nobbNr": 43201703,
+      "varetekst1": "GRAN 19X148 REKT KLED VISIR",
+      "varetekst2": "KL 1 GRUNNETVISIR 3 SIDIG",
+      "langVaretekst": "Kledning rektangulær kl1 gran grunnet 3 sidig Visir 19x148",
+      "prisEnhet": "LM",
+      "created": "2010-02-16T12:54:25.523",
+      "updated": "2020-02-03T15:50:44",
+      "vareType": "STANDARD",
+      "produsentVareNr": "6619148012781P",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0504200",
+        "beskrivelse": "Rektangulær Kledning Furu/Gran Beh"
+      },
+      "nobbModul": {
+        "nobbModulNr": 25173220,
+        "merkenavn": "Moelven",
+        "modultekst1": "REKTANGULÆR KLEDNING GRUNNET",
+        "modultekst2": "DEKKENDE INDUSTRIGRUNNET 3 SIDIG",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0504200",
+          "beskrivelse": "Rektangulær Kledning Furu/Gran Beh"
+        }
+      }
+    },
+    {
+      "nobbNr": 43656597,
+      "varetekst1": "OSBPL 3 12X2400X1220MM STRL TG2",
+      "varetekst2": "FE OSB 12X2400X1220 TG2",
+      "langVaretekst": "OSBPL 3 12X2400X1220MM STRL TG2, FE OSB 12X2400X1220 TG2",
+      "prisEnhet": "M_2",
+      "created": "2010-05-03T13:22:20.053",
+      "updated": "2020-02-12T13:00:10.253",
+      "vareType": "STANDARD",
+      "produsentVareNr": "101001204224001220",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940350",
+        "beskrivelse": "Osb-Plater"
+      },
+      "nobbModul": {
+        "nobbModulNr": 20002848,
+        "merkenavn": "Fritzøe Engros",
+        "modultekst1": "OSB 3",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940350",
+          "beskrivelse": "Osb-Plater"
+        }
+      }
+    },
+    {
+      "nobbNr": 43983274,
+      "varetekst1": "FURU 28X120 TER DUO BRUN ROYAL",
+      "varetekst2": "MØREROYAL BRUN RB.10",
+      "langVaretekst": "FURU 28X120 TERRASSEBORD DUO RB.10 BRUN MØREROYAL",
+      "prisEnhet": "LM",
+      "created": "2010-11-18T10:36:14.703",
+      "updated": "2020-01-20T15:00:17.743",
+      "vareType": "STANDARD",
+      "produsentVareNr": "22140281201017",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0506695",
+        "beskrivelse": "Terrassebord Royalimp"
+      },
+      "nobbModul": {
+        "nobbModulNr": 23421183,
+        "merkenavn": "Talgø MøreRoyal®",
+        "modultekst1": "ROYALIMPREGNERT TERRASSEBORD",
+        "modultekst2": "",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0506695",
+          "beskrivelse": "Terrassebord Royalimp"
+        }
+      }
+    },
+    {
+      "nobbNr": 44024816,
+      "varetekst1": "KARM VMT 9X21 122MM HVIT",
+      "varetekst2": "INNFELT SKYVEDØRSKARM",
+      "langVaretekst": "KARM VMT 9X21 122MM HVIT, INNFELT SKYVEDØRSKARM",
+      "prisEnhet": "STK",
+      "created": "2010-12-08T00:00:00",
+      "updated": "2017-09-14T12:00:00.867",
+      "vareType": "STANDARD",
+      "produsentVareNr": "03382390",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1355100",
+        "beskrivelse": "Karm Behandlet"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41744853,
+        "merkenavn": "Swedoor",
+        "modultekst1": "KARM VMT SKYVEDØR LAKK/UBH/HVIT",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1355100",
+          "beskrivelse": "Karm Behandlet"
+        }
+      }
+    },
+    {
+      "nobbNr": 44120156,
+      "varetekst1": "FOCUS MDF VEGG SKYGGE 2390 HVIT",
+      "varetekst2": "11X620X2390 KM NCS S 0502-Y",
+      "langVaretekst": "FOCUS MDF Skygge Hvit kostemalt NCS S 0205-Y 11x620x2390mm",
+      "prisEnhet": "M_2",
+      "created": "2011-01-21T13:28:36.03",
+      "updated": "2019-12-03T16:00:17.297",
+      "vareType": "STANDARD",
+      "produsentVareNr": "211901",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940420",
+        "beskrivelse": "Mdf-Plater Ferdigbehandlet"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41183872,
+        "merkenavn": "FOCUS",
+        "modultekst1": "FOCUS MDF VEGG",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940420",
+          "beskrivelse": "Mdf-Plater Ferdigbehandlet"
+        }
+      }
+    },
+    {
+      "nobbNr": 44189823,
+      "varetekst1": "PARKETT 13 EIK ABETONE HVIT MATT",
+      "varetekst2": "3STAV",
+      "langVaretekst": "Kahrs parkett  Eik Abetone 3-stav, hvit matt lakk, 13x200x2423mm. Svanemerket",
+      "prisEnhet": "M_2",
+      "created": "2011-02-04T14:52:06.31",
+      "updated": "2019-12-12T15:28:36.227",
+      "vareType": "STANDARD",
+      "produsentVareNr": "133NABEK1VKW  0",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1512001",
+        "beskrivelse": "Parkett"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41747017,
+        "merkenavn": "Kährs",
+        "modultekst1": "AVANTI PARKETT 13MM",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1512001",
+          "beskrivelse": "Parkett"
+        }
+      }
+    },
+    {
+      "nobbNr": 44888302,
+      "varetekst1": "KONSTRFINER 15MM 2400X1207 TG2",
+      "varetekst2": "METSA WEATHERGUARD",
+      "langVaretekst": "KONSTRUKSJONSFINER GRAN 15MM 2400X1207 TG2 MED WEATHERGUARD BESKYTTELSE",
+      "prisEnhet": "M_2",
+      "created": "2011-10-27T13:16:38.66",
+      "updated": "2020-03-19T16:00:19.897",
+      "vareType": "STANDARD",
+      "produsentVareNr": "151001504224001207",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940310",
+        "beskrivelse": "Kryssfiner Ubehandlet"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41843878,
+        "merkenavn": "Fritzøe Engros",
+        "modultekst1": "KONSTRUKSJONSFINER WEATHERGUARD",
+        "modultekst2": "WEATHERGUARD",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940310",
+          "beskrivelse": "Kryssfiner Ubehandlet"
+        }
+      }
+    },
+    {
+      "nobbNr": 44888321,
+      "varetekst1": "KONSTRFINER 18MM 2400X1220 TG2",
+      "varetekst2": "METSA WEATHERGUARD",
+      "langVaretekst": "KONSTRUKSJONSFINER GRAN 18MM 2400X1220 TG2 MED WEATHERGUARD BESKYTTELSE",
+      "prisEnhet": "M_2",
+      "created": "2011-10-27T13:19:25.897",
+      "updated": "2020-03-19T16:00:19.897",
+      "vareType": "STANDARD",
+      "produsentVareNr": "151001804224001220",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940310",
+        "beskrivelse": "Kryssfiner Ubehandlet"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41843878,
+        "merkenavn": "Fritzøe Engros",
+        "modultekst1": "KONSTRUKSJONSFINER WEATHERGUARD",
+        "modultekst2": "WEATHERGUARD",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940310",
+          "beskrivelse": "Kryssfiner Ubehandlet"
+        }
+      }
+    },
+    {
+      "nobbNr": 44896842,
+      "varetekst1": "WEBER GULVAVRETTING NORMAL 20KG",
+      "prisEnhet": "SEK",
+      "created": "2011-11-01T12:46:44.14",
+      "updated": "2019-10-07T07:39:17.387",
+      "vareType": "STANDARD",
+      "produsentVareNr": "5200629142",
+      "nobbVaregruppe": {
+        "varegruppeNr": "2024001",
+        "beskrivelse": "Gulv Sparkel- og Avrettingsmasse"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41844442,
+        "merkenavn": "Weber",
+        "modultekst1": "WEBER GULVAVRETTING NORMAL",
+        "nobbVaregruppe": {
+          "varegruppeNr": "2024001",
+          "beskrivelse": "Gulv Sparkel- og Avrettingsmasse"
+        }
+      }
+    },
+    {
+      "nobbNr": 45224181,
+      "varetekst1": "KONSTRFINER 15MM 2410X0610 TG4",
+      "varetekst2": "METSA WEATHERGUARD",
+      "langVaretekst": "KONSTRUKSJONSFINER GRAN 15MM 2410X0610 TG4 MED WEATHERGUARD BESKYTTELSE",
+      "prisEnhet": "M_2",
+      "created": "2012-02-02T09:20:58.507",
+      "updated": "2020-03-19T16:00:19.897",
+      "vareType": "STANDARD",
+      "produsentVareNr": "151001504324100610",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940310",
+        "beskrivelse": "Kryssfiner Ubehandlet"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41843878,
+        "merkenavn": "Fritzøe Engros",
+        "modultekst1": "KONSTRUKSJONSFINER WEATHERGUARD",
+        "modultekst2": "WEATHERGUARD",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940310",
+          "beskrivelse": "Kryssfiner Ubehandlet"
+        }
+      }
+    },
+    {
+      "nobbNr": 45659494,
+      "varetekst1": "+KARM IK 9X21 093MM HVIT /E TETTL",
+      "varetekst2": "KVISTFRI / 22MM ANSLAG TERSKEL",
+      "langVaretekst": "+KARM IK 9X21 093MM HVIT /E TETTL, KVISTFRI / 22MM ANSLAG TERSKEL",
+      "prisEnhet": "STK",
+      "created": "2012-07-05T00:00:00",
+      "updated": "2017-08-04T11:37:04.21",
+      "vareType": "STANDARD",
+      "produsentVareNr": "03407839",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1355100",
+        "beskrivelse": "Karm Behandlet"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41871655,
+        "merkenavn": "Swedoor",
+        "modultekst1": "+KARM IK 093MM M7-10 /E-TERSKE HVIT",
+        "modultekst2": "USAMMENSATT KVISTFRI M/TETTELIST",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1355100",
+          "beskrivelse": "Karm Behandlet"
+        }
+      }
+    },
+    {
+      "nobbNr": 45970695,
+      "varetekst1": "OSBPL 3 15X2400X1220MM TG2",
+      "varetekst2": "15MM 2400X1220MM",
+      "langVaretekst": "OSBPL 3 15X2400X1220MM TG2, 15MM 2400X1220MM",
+      "prisEnhet": "M_2",
+      "created": "2012-09-24T08:52:15.307",
+      "updated": "2020-02-12T13:00:10.253",
+      "vareType": "STANDARD",
+      "produsentVareNr": "101001504224001220",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940350",
+        "beskrivelse": "Osb-Plater"
+      },
+      "nobbModul": {
+        "nobbModulNr": 20002848,
+        "merkenavn": "Fritzøe Engros",
+        "modultekst1": "OSB 3",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940350",
+          "beskrivelse": "Osb-Plater"
+        }
+      }
+    },
+    {
+      "nobbNr": 45970706,
+      "varetekst1": "OSBPL 3 18X2400X1220MM TG2",
+      "varetekst2": "18MM 2400X1220MM",
+      "langVaretekst": "OSBPL 3 18X2400X1220MM TG2, 18MM 2400X1220MM",
+      "prisEnhet": "M_2",
+      "created": "2012-09-24T08:59:10.733",
+      "updated": "2020-02-12T13:00:10.253",
+      "vareType": "STANDARD",
+      "produsentVareNr": "101001804224001220",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940350",
+        "beskrivelse": "Osb-Plater"
+      },
+      "nobbModul": {
+        "nobbModulNr": 20002848,
+        "merkenavn": "Fritzøe Engros",
+        "modultekst1": "OSB 3",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940350",
+          "beskrivelse": "Osb-Plater"
+        }
+      }
+    },
+    {
+      "nobbNr": 46035712,
+      "varetekst1": "TAKSTEIN BMI ZANDA PROTECTOR SVART",
+      "varetekst2": "NORMALSTEIN",
+      "langVaretekst": "Takstein BMI Zanda Protector normalstein svart",
+      "prisEnhet": "STK",
+      "created": "2012-10-12T00:00:00",
+      "updated": "2019-11-06T13:00:08.48",
+      "vareType": "STANDARD",
+      "produsentVareNr": "175200122",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1020410",
+        "beskrivelse": "Takstein Betong"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41876358,
+        "merkenavn": "BMI Zanda Protector",
+        "modultekst1": "BMI ZANDA PROTECTOR",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1020410",
+          "beskrivelse": "Takstein Betong"
+        }
+      }
+    },
+    {
+      "nobbNr": 46260226,
+      "varetekst1": "PARKETT EIK SAND FAS CASTLE OLJE",
+      "varetekst2": "14X209X2200MM PLANK LIVE NATURAL",
+      "langVaretekst": "Parkett eik Castle Sand plank børstet gråbrun  Live Natural olje 14x209x2200mm Boen X-press Clic",
+      "prisEnhet": "M_2",
+      "created": "2013-01-13T22:11:38.38",
+      "updated": "2020-03-03T12:11:47.903",
+      "vareType": "STANDARD",
+      "produsentVareNr": "XHGV4MFD",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1512001",
+        "beskrivelse": "Parkett"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41711487,
+        "merkenavn": "Boen",
+        "modultekst1": "BOEN PARKETT 1STAV 14X209MM",
+        "modultekst2": "14X209X2200MM BOEN X-PRESS PARKETT",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1512001",
+          "beskrivelse": "Parkett"
+        }
+      }
+    },
+    {
+      "nobbNr": 46261895,
+      "varetekst1": "FURU 28X120 ROYAL GRÅ TERRASSE",
+      "varetekst2": "RG.20",
+      "langVaretekst": "FURU 28X120 ROYALIMPREGNERT GRÅ TERRASSEBORD",
+      "prisEnhet": "LM",
+      "created": "2013-01-14T15:46:00.903",
+      "updated": "2020-03-13T16:00:20.2",
+      "vareType": "STANDARD",
+      "produsentVareNr": "221702812014",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0506695",
+        "beskrivelse": "Terrassebord Royalimp"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41346685,
+        "merkenavn": "Marnar Bruk",
+        "modultekst1": "ROYALIMPR. TERRASSEBORD",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0506695",
+          "beskrivelse": "Terrassebord Royalimp"
+        }
+      }
+    },
+    {
+      "nobbNr": 46897162,
+      "varetekst1": "LAMINATG L0323 MODERNE GRÅ EIK PL",
+      "varetekst2": "2050X205X9,5MM PAK=2,522M2 6BORD",
+      "langVaretekst": "LAMINATG L0323 MODERNE GRÅ EIK PL, 2050X205X9,5MM PAK=2,522M2 6BORD",
+      "prisEnhet": "M_2",
+      "created": "2013-06-18T15:19:35.43",
+      "updated": "2019-12-03T16:00:00.383",
+      "vareType": "STANDARD",
+      "produsentVareNr": "L0323-01753",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1513001",
+        "beskrivelse": "Laminatgulv"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41908626,
+        "merkenavn": "Pergo",
+        "modultekst1": "PERGO LIVING EXPRESSION 2M PLANK 4V",
+        "modultekst2": "2M PLANK 4V",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1513001",
+          "beskrivelse": "Laminatgulv"
+        }
+      }
+    },
+    {
+      "nobbNr": 47126414,
+      "varetekst1": "FORESTIA W2P SPONPLATE 2390 2PK",
+      "varetekst2": "GRUNNET TAPETSERT FOR MALING",
+      "langVaretekst": "FORESTIA Walls2Paint 2pk Veggplater med låseprofil beregnet for maling, 12x620x2390mm",
+      "prisEnhet": "M_2",
+      "created": "2013-07-09T08:40:44.847",
+      "updated": "2020-01-20T09:32:02.287",
+      "vareType": "STANDARD",
+      "produsentVareNr": "47126414",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940020",
+        "beskrivelse": "Sponplater Ferdigbehandlet"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41947433,
+        "merkenavn": "FORESTIA Walls2Paint",
+        "modultekst1": "FORESTIA WALLS2PAINT",
+        "modultekst2": "MALINGSKLAR VEGGPLATE",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940020",
+          "beskrivelse": "Sponplater Ferdigbehandlet"
+        }
+      }
+    },
+    {
+      "nobbNr": 47255804,
+      "varetekst1": "BADEROMSP 3091-M63 HG DENVER WHITE",
+      "varetekst2": "MARCATO 11X620X2400MM",
+      "langVaretekst": "Fibo Baderomspanel 3091-M63 HG Denver White Marcato 11x620x2400mm flisstr. 60x30cm",
+      "prisEnhet": "M_2",
+      "created": "2013-09-12T08:40:40.64",
+      "updated": "2020-03-17T18:00:18.83",
+      "vareType": "STANDARD",
+      "produsentVareNr": "3091M63",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1510001",
+        "beskrivelse": "Baderomspanel"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41917314,
+        "merkenavn": "Fibo",
+        "modultekst1": "FIBO BADEROM MARCATO",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1510001",
+          "beskrivelse": "Baderomspanel"
+        }
+      }
+    },
+    {
+      "nobbNr": 47255963,
+      "varetekst1": "BADEROMSP 2204-F00 S CRACKED CEMENT",
+      "varetekst2": "MARCATO 11X620X2400MM",
+      "langVaretekst": "Fibo Baderomspanel 2204-F00 S Cracked Cement Marcato 11x620x2400mm",
+      "prisEnhet": "M_2",
+      "created": "2013-09-12T08:40:47.143",
+      "updated": "2020-03-17T18:00:18.8",
+      "vareType": "STANDARD",
+      "produsentVareNr": "2204F00",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1510001",
+        "beskrivelse": "Baderomspanel"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41917314,
+        "merkenavn": "Fibo",
+        "modultekst1": "FIBO BADEROM MARCATO",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1510001",
+          "beskrivelse": "Baderomspanel"
+        }
+      }
+    },
+    {
+      "nobbNr": 47258521,
+      "varetekst1": "FURU 28X120 TER UNO GRÅ ROYAL",
+      "varetekst2": "MØREROYAL GRÅ RG.25",
+      "langVaretekst": "FURU 28X120 TERRASSEBORD UNO RG.25 GRÅ MØREROYAL",
+      "prisEnhet": "LM",
+      "created": "2013-09-13T07:37:37.32",
+      "updated": "2020-01-20T15:00:17.743",
+      "vareType": "STANDARD",
+      "produsentVareNr": "22140281201019",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0506695",
+        "beskrivelse": "Terrassebord Royalimp"
+      },
+      "nobbModul": {
+        "nobbModulNr": 23421183,
+        "merkenavn": "Talgø MøreRoyal®",
+        "modultekst1": "ROYALIMPREGNERT TERRASSEBORD",
+        "modultekst2": "",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0506695",
+          "beskrivelse": "Terrassebord Royalimp"
+        }
+      }
+    },
+    {
+      "nobbNr": 47259853,
+      "varetekst1": "FURU 19X148 DF EP 28° GRÅ ROYAL",
+      "varetekst2": "MØREROYAL GRÅ RG.25",
+      "langVaretekst": "FURU 19X148 DOBBELFALS KLEDNING ENDEPLØYD 28° RG.25 RG.25 GRÅ MØREROYAL, GAMMEL TYPE",
+      "prisEnhet": "LM",
+      "created": "2013-09-13T14:14:52.213",
+      "updated": "2019-09-19T15:24:46.193",
+      "vareType": "STANDARD",
+      "produsentVareNr": "26220191481019",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0504395",
+        "beskrivelse": "Profilert Kledning Royalimp"
+      },
+      "nobbModul": {
+        "nobbModulNr": 23586365,
+        "merkenavn": "Talgø MøreRoyal®",
+        "modultekst1": "ROYALIMPREGNERT PROFILERT KLEDNING",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0504395",
+          "beskrivelse": "Profilert Kledning Royalimp"
+        }
+      }
+    },
+    {
+      "nobbNr": 47261181,
+      "varetekst1": "FURU 19X148 DF EP 60° GRÅ ROYAL",
+      "varetekst2": "MØREROYAL GRÅ RG.25",
+      "langVaretekst": "FURU 19X148 DOBBELFALS KLEDNING ENDEPLØYD 60° RG.25 GRÅ MØREROYAL, NY TYPE",
+      "prisEnhet": "LM",
+      "created": "2013-09-16T07:28:30.677",
+      "updated": "2019-09-19T15:24:46.193",
+      "vareType": "STANDARD",
+      "produsentVareNr": "26230191481019",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0504395",
+        "beskrivelse": "Profilert Kledning Royalimp"
+      },
+      "nobbModul": {
+        "nobbModulNr": 23586365,
+        "merkenavn": "Talgø MøreRoyal®",
+        "modultekst1": "ROYALIMPREGNERT PROFILERT KLEDNING",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0504395",
+          "beskrivelse": "Profilert Kledning Royalimp"
+        }
+      }
+    },
+    {
+      "nobbNr": 47411401,
+      "varetekst1": "PLATE MAGNABOARD SK 6X1200X0600",
+      "varetekst2": "SEMENTBASERTE PLATER",
+      "langVaretekst": "PLATE MAGNABOARD SK 6X1200X0600, SEMENTBASERTE PLATER",
+      "prisEnhet": "M_2",
+      "created": "2013-10-30T11:23:06.377",
+      "updated": "2019-07-01T00:00:00",
+      "vareType": "STANDARD",
+      "produsentVareNr": "381000604412000600",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940800",
+        "beskrivelse": "Sementbaserte Plater"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41926145,
+        "merkenavn": "Fritzøe Engros",
+        "modultekst1": "MAGNABOARD SEMENTBASERT PLATE",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940800",
+          "beskrivelse": "Sementbaserte Plater"
+        }
+      }
+    },
+    {
+      "nobbNr": 48618322,
+      "varetekst1": "BADEROMSP 110 S HVIT",
+      "varetekst2": "LEGATO KOLLEKSJ. 11X620X2400MM",
+      "langVaretekst": "Fibo Baderomspanel 110 S Hvit Legato kolleksjonen 11x620x2400mm",
+      "prisEnhet": "M_2",
+      "created": "2014-08-28T14:55:34.9",
+      "updated": "2020-03-17T18:00:18.817",
+      "vareType": "STANDARD",
+      "produsentVareNr": "410110",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1510001",
+        "beskrivelse": "Baderomspanel"
+      },
+      "nobbModul": {
+        "nobbModulNr": 29847415,
+        "merkenavn": "Fibo",
+        "modultekst1": "FIBO BADEROM LEGATO",
+        "modultekst2": "BADEROMSPANEL MED KLIKKLÅS",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1510001",
+          "beskrivelse": "Baderomspanel"
+        }
+      }
+    },
+    {
+      "nobbNr": 48790045,
+      "varetekst1": "PARKETT 15 EIK TARANTO",
+      "varetekst2": "3STAV MATTLAKK",
+      "langVaretekst": "Kahrs parkett Eik Taranto, mattlakk, hvit, 15x200x2423mm. Svanemerket",
+      "prisEnhet": "M_2",
+      "created": "2014-11-05T14:40:13.01",
+      "updated": "2020-01-28T14:00:25.52",
+      "vareType": "STANDARD",
+      "produsentVareNr": "153N19EK0NKW  0",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1512001",
+        "beskrivelse": "Parkett"
+      },
+      "nobbModul": {
+        "nobbModulNr": 24480212,
+        "merkenavn": "Kährs",
+        "modultekst1": "PARKETT 15MM BASIC WOODLOC KAHRS",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1512001",
+          "beskrivelse": "Parkett"
+        }
+      }
+    },
+    {
+      "nobbNr": 49254126,
+      "varetekst1": "PARKETT EIK BØRSTET ANDANTE PURE",
+      "varetekst2": "14X209X2200MM PL XP LIVE PURE LAKK",
+      "langVaretekst": "Parkett Eik Castle Børstet Andante plank fas Live Pure lakk 14x209x2200mm Boen 5G Click",
+      "prisEnhet": "M_2",
+      "created": "2015-03-09T16:25:54.877",
+      "updated": "2020-03-03T12:11:47.903",
+      "vareType": "STANDARD",
+      "produsentVareNr": "EBGV33FD",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1512001",
+        "beskrivelse": "Parkett"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41711487,
+        "merkenavn": "Boen",
+        "modultekst1": "BOEN PARKETT 1STAV 14X209MM",
+        "modultekst2": "14X209X2200MM BOEN X-PRESS PARKETT",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1512001",
+          "beskrivelse": "Parkett"
+        }
+      }
+    },
+    {
+      "nobbNr": 49511401,
+      "varetekst1": "HUNTONIT TREFIB PANELB HV 142X2420",
+      "varetekst2": "11X142X2420 KM NCS S 0502-Y",
+      "langVaretekst": "HUNTONIT Panelbord i trefiber Skygge Hvit NCS S 0502-Y 11x142x2420mm, netto: 11x125x2400mm",
+      "prisEnhet": "M_2",
+      "created": "2015-05-20T12:11:06.193",
+      "updated": "2020-03-17T18:00:18.83",
+      "vareType": "STANDARD",
+      "produsentVareNr": "231626",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940120",
+        "beskrivelse": "Trefiberplater Ferdigbehandlet"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42070924,
+        "merkenavn": "HUNTONIT",
+        "modultekst1": "HUNTONIT PANELBORD 142",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940120",
+          "beskrivelse": "Trefiberplater Ferdigbehandlet"
+        }
+      }
+    },
+    {
+      "nobbNr": 49574586,
+      "varetekst1": "FUGEMASSE MAXI BOND SEAL WHITE 0,3L",
+      "varetekst2": "",
+      "langVaretekst": "BOSTIK FUGEMASSE MAXI BOND SEAL WHITE 0.3 L",
+      "prisEnhet": "STK",
+      "created": "2015-06-16T11:20:47.847",
+      "updated": "2020-03-06T11:22:59.237",
+      "vareType": "STANDARD",
+      "produsentVareNr": "30616569",
+      "nobbVaregruppe": {
+        "varegruppeNr": "2022001",
+        "beskrivelse": "Fugemasse"
+      },
+      "nobbModul": {
+        "nobbModulNr": 21060249,
+        "merkenavn": "BOSTIK",
+        "modultekst1": "FUGEMASSER",
+        "nobbVaregruppe": {
+          "varegruppeNr": "2022001",
+          "beskrivelse": "Fugemasse"
+        }
+      }
+    },
+    {
+      "nobbNr": 49606881,
+      "varetekst1": "FUGESKUM FLEX GUN 750ML",
+      "langVaretekst": "BOSTIK  FUGESKUM FLEX GUN 750 ML",
+      "prisEnhet": "STK",
+      "created": "2015-06-30T16:51:49.803",
+      "updated": "2019-08-30T08:49:18.62",
+      "vareType": "STANDARD",
+      "produsentVareNr": "30860404",
+      "nobbVaregruppe": {
+        "varegruppeNr": "2022300",
+        "beskrivelse": "Fugeskum"
+      },
+      "nobbModul": {
+        "nobbModulNr": 21060744,
+        "merkenavn": "BOSTIK",
+        "modultekst1": "FUGESKUM/TILBEHØR",
+        "nobbVaregruppe": {
+          "varegruppeNr": "2022300",
+          "beskrivelse": "Fugeskum"
+        }
+      }
+    },
+    {
+      "nobbNr": 49716338,
+      "varetekst1": "LAMINATG L0331 NEW ENGLAND-EIK PL",
+      "varetekst2": "1380X190X8MM PAK=1,835M2 7BORD",
+      "langVaretekst": "LAMINATG L0331 NEW ENGLAND-EIK PL, 1380X190X8MM PAK=1,835M2 7BORD",
+      "prisEnhet": "M_2",
+      "created": "2015-08-21T10:43:03.477",
+      "updated": "2019-12-04T15:19:33.367",
+      "vareType": "STANDARD",
+      "produsentVareNr": "L0331-03369",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1513001",
+        "beskrivelse": "Laminatgulv"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42014073,
+        "merkenavn": "Pergo",
+        "modultekst1": "PERGO LIVING EXPRESSION MODER PL 4V",
+        "modultekst2": "MODERN PLANK 4V",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1513001",
+          "beskrivelse": "Laminatgulv"
+        }
+      }
+    },
+    {
+      "nobbNr": 50640380,
+      "varetekst1": "PARKETT EIK POP 13MM PL HVIT FAS",
+      "varetekst2": "13X181X2200MM PLANK LIVE HVIT FAS",
+      "langVaretekst": "Parkett Eik Pop plank Live Hvit Matt lakk m/fas  13x181x2200mm Clic",
+      "prisEnhet": "M_2",
+      "created": "2015-12-08T13:58:45.973",
+      "updated": "2020-03-03T12:11:47.903",
+      "vareType": "STANDARD",
+      "produsentVareNr": "EIHD42FD",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1512001",
+        "beskrivelse": "Parkett"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42028765,
+        "merkenavn": "Boen",
+        "modultekst1": "BOEN PARKETT 1STAV 13X181MM",
+        "modultekst2": "13X181X2200MM BOEN X-PRESS PARKETT",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1512001",
+          "beskrivelse": "Parkett"
+        }
+      }
+    },
+    {
+      "nobbNr": 50673556,
+      "varetekst1": "GLAVA PROFF 34 RULL  50X560X9200MM",
+      "varetekst2": "2 STK  10,3 M2/PK",
+      "langVaretekst": "GLAVA PROFF 34 RULL  50X560X9200MM, 2 STK  10,3 M2/PK",
+      "prisEnhet": "M_2",
+      "created": "2015-12-14T09:37:30.32",
+      "updated": "2020-01-19T07:00:15.55",
+      "vareType": "STANDARD",
+      "produsentVareNr": "380050",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0930001",
+        "beskrivelse": "Bygningsisolasjon"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42027524,
+        "merkenavn": "Glava A/S",
+        "modultekst1": "GLAVA PROFF 34 RULL",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0930001",
+          "beskrivelse": "Bygningsisolasjon"
+        }
+      }
+    },
+    {
+      "nobbNr": 50673632,
+      "varetekst1": "GLAVA PROFF 34 PLATE 150X570X1200MM",
+      "varetekst2": "6 STK  4,1 M2/PK",
+      "langVaretekst": "GLAVA PROFF 34 PLATE 150X570X1200MM, 6 STK  4,1 M2/PK",
+      "prisEnhet": "M_2",
+      "created": "2015-12-14T09:44:45.34",
+      "updated": "2020-01-19T07:00:15.707",
+      "vareType": "STANDARD",
+      "produsentVareNr": "382150",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0930001",
+        "beskrivelse": "Bygningsisolasjon"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42027543,
+        "merkenavn": "Glava A/S",
+        "modultekst1": "GLAVA PROFF 34 PLATE",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0930001",
+          "beskrivelse": "Bygningsisolasjon"
+        }
+      }
+    },
+    {
+      "nobbNr": 50693364,
+      "varetekst1": "PARKETT EIK CONCERTO 3STV HV MATT",
+      "varetekst2": "14X215X2200MM 3ST XP LIVE MATTHVIT",
+      "langVaretekst": "Parkett Eik Concerto Hvit 3-stavs Live matt lakk hvit 14x215x2200 mm Boen X-Press Clic",
+      "prisEnhet": "M_2",
+      "created": "2015-12-17T15:28:37.153",
+      "updated": "2020-03-03T12:11:47.903",
+      "vareType": "STANDARD",
+      "produsentVareNr": "EIGL72TD",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1512001",
+        "beskrivelse": "Parkett"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42029658,
+        "merkenavn": "Boen",
+        "modultekst1": "BOEN PARKETT 3STAV 14X215MM",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1512001",
+          "beskrivelse": "Parkett"
+        }
+      }
+    },
+    {
+      "nobbNr": 50762441,
+      "varetekst1": "PARKETT 15 EIK ANTIUM 227",
+      "varetekst2": "1 STAV MIKROFAS HVIT MATT",
+      "langVaretekst": "Kahrs parkett Eik Antium 1-stav plank, mikrofaset, hvit, matt lakk, 15x187x2266mm. Svanemerket",
+      "prisEnhet": "M_2",
+      "created": "2016-01-21T10:34:54.33",
+      "updated": "2020-01-28T14:00:25.52",
+      "vareType": "STANDARD",
+      "produsentVareNr": "151N9MEK0NKW220",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1512001",
+        "beskrivelse": "Parkett"
+      },
+      "nobbModul": {
+        "nobbModulNr": 24480212,
+        "merkenavn": "Kährs",
+        "modultekst1": "PARKETT 15MM BASIC WOODLOC KAHRS",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1512001",
+          "beskrivelse": "Parkett"
+        }
+      }
+    },
+    {
+      "nobbNr": 50798765,
+      "varetekst1": "LAMINATG GRAND ALU KU DAMM",
+      "varetekst2": "12,3MM PK=2,3232 M2 4 BORD",
+      "langVaretekst": "BERRYALLOC GRAND AVENUE HPL LAMINATGULV ALULOC ALUMINIUM LÅS KU DAMM",
+      "prisEnhet": "M_2",
+      "created": "2016-01-28T16:04:34.39",
+      "updated": "2020-01-29T12:42:14.07",
+      "vareType": "STANDARD",
+      "produsentVareNr": "62000562",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1513001",
+        "beskrivelse": "Laminatgulv"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41928533,
+        "merkenavn": "BerryAlloc",
+        "modultekst1": "BERRYALLOC HPL GRAND AVENUE",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1513001",
+          "beskrivelse": "Laminatgulv"
+        }
+      }
+    },
+    {
+      "nobbNr": 50798784,
+      "varetekst1": "LAMINATG GRAND ALU CHAMPS ELYSEES",
+      "varetekst2": "12,3MM PK=2,3232 M2 4 BORD",
+      "langVaretekst": "BERRYALLOC GRAND AVENUE HPL LAMINATGULV ALULOC ALUMINIUM LÅS CHAMPS ELYSEES",
+      "prisEnhet": "M_2",
+      "created": "2016-01-28T16:04:35.873",
+      "updated": "2020-01-29T12:42:14.07",
+      "vareType": "STANDARD",
+      "produsentVareNr": "62000559",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1513001",
+        "beskrivelse": "Laminatgulv"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41928533,
+        "merkenavn": "BerryAlloc",
+        "modultekst1": "BERRYALLOC HPL GRAND AVENUE",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1513001",
+          "beskrivelse": "Laminatgulv"
+        }
+      }
+    },
+    {
+      "nobbNr": 50798818,
+      "varetekst1": "LAMINATG GRAND ALU RODEO DRIVE",
+      "varetekst2": "12,3MM PK=2,3232 M2 4 BORD",
+      "langVaretekst": "BERRYALLOC GRAND AVENUE HPL LAMINATGULV ALULOC ALUMINIUM LÅS RODEO DRIVE",
+      "prisEnhet": "M_2",
+      "created": "2016-01-28T16:04:37.823",
+      "updated": "2020-01-29T12:42:14.07",
+      "vareType": "STANDARD",
+      "produsentVareNr": "62000566",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1513001",
+        "beskrivelse": "Laminatgulv"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41928533,
+        "merkenavn": "BerryAlloc",
+        "modultekst1": "BERRYALLOC HPL GRAND AVENUE",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1513001",
+          "beskrivelse": "Laminatgulv"
+        }
+      }
+    },
+    {
+      "nobbNr": 50978684,
+      "varetekst1": "VINDSPERRE SOFT XTRA 2,80X50M ISOLA",
+      "langVaretekst": "Isola Vindsperre Soft Xtra 2,80x50m",
+      "prisEnhet": "RUL",
+      "created": "2016-02-17T15:40:19.54",
+      "updated": "2019-12-20T10:07:07.097",
+      "vareType": "STANDARD",
+      "produsentVareNr": "537114",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0930250",
+        "beskrivelse": "Vindsperre"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42097914,
+        "merkenavn": "Isola Vindsperre",
+        "modultekst1": "VINDSPERRE",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0930250",
+          "beskrivelse": "Vindsperre"
+        }
+      }
+    },
+    {
+      "nobbNr": 51202646,
+      "varetekst1": "GIPSPL GNE13 12,5X900X2400",
+      "varetekst2": "GYPROC NORMAL ERGO STANDARDGIPS",
+      "langVaretekst": "GIPSPL GNE13 12,5X900X2400, GYPROC NORMAL ERGO STANDARDGIPS",
+      "prisEnhet": "M_2",
+      "created": "2016-04-22T14:35:49.067",
+      "updated": "2020-03-13T11:49:35.597",
+      "vareType": "STANDARD",
+      "produsentVareNr": "5200432001",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940210",
+        "beskrivelse": "Gipsplater Ubehandlet"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41754138,
+        "merkenavn": "Gyproc",
+        "modultekst1": "GYPROC NORMAL ERGO STANDARDGIPSPL.",
+        "modultekst2": "STANDARDGIPSPL, BREDDE X/900",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940210",
+          "beskrivelse": "Gipsplater Ubehandlet"
+        }
+      }
+    },
+    {
+      "nobbNr": 51202805,
+      "varetekst1": "GIPSPL GN13 12,5X1200X2700",
+      "varetekst2": "GYPROC NORMAL STANDARDGIPSPLATE",
+      "langVaretekst": "GIPSPL GN13 12,5X1200X2700, GYPROC NORMAL STANDARDGIPSPLATE",
+      "prisEnhet": "M_2",
+      "created": "2016-04-22T14:35:53.017",
+      "updated": "2020-03-13T11:49:36.89",
+      "vareType": "STANDARD",
+      "produsentVareNr": "5200605556",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940210",
+        "beskrivelse": "Gipsplater Ubehandlet"
+      },
+      "nobbModul": {
+        "nobbModulNr": 11184199,
+        "merkenavn": "Gyproc",
+        "modultekst1": "GYPROC NORMAL STANDARDGIPSPLATE",
+        "modultekst2": "STANDARDGIPSPL, BREDDE X/1200",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940210",
+          "beskrivelse": "Gipsplater Ubehandlet"
+        }
+      }
+    },
+    {
+      "nobbNr": 51203282,
+      "varetekst1": "GIPSPL GPL 12,5X1200X2400",
+      "varetekst2": "GYPROC PLANUM 4 FORSENKEDE KANTER",
+      "langVaretekst": "GIPSPL GPL 12,5X1200X2400, GYPROC PLANUM 4 FORSENKEDE KANTER",
+      "prisEnhet": "M_2",
+      "created": "2016-04-22T14:36:03.75",
+      "updated": "2020-03-13T11:49:39.37",
+      "vareType": "STANDARD",
+      "produsentVareNr": "5200410736",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940210",
+        "beskrivelse": "Gipsplater Ubehandlet"
+      },
+      "nobbModul": {
+        "nobbModulNr": 29012986,
+        "merkenavn": "Gyproc",
+        "modultekst1": "GYPROC PLANUM HIMLINGSPLATE",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940210",
+          "beskrivelse": "Gipsplater Ubehandlet"
+        }
+      }
+    },
+    {
+      "nobbNr": 51203354,
+      "varetekst1": "GIPSPL GUB9 9,5X1200X2700",
+      "varetekst2": "GYPROC BRIS VINDTETTINGSPLATE",
+      "langVaretekst": "GIPSPL GUB9 9,5X1200X2700, GYPROC BRIS VINDTETTINGSPLATE",
+      "prisEnhet": "M_2",
+      "created": "2016-04-22T14:36:05.357",
+      "updated": "2020-03-13T11:49:37.937",
+      "vareType": "STANDARD",
+      "produsentVareNr": "5200647799",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940210",
+        "beskrivelse": "Gipsplater Ubehandlet"
+      },
+      "nobbModul": {
+        "nobbModulNr": 11184215,
+        "merkenavn": "Gyproc",
+        "modultekst1": "GYPROC BRIS VINDTETTINGSPLATE",
+        "modultekst2": "VINDTETTINGSPLATE",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940210",
+          "beskrivelse": "Gipsplater Ubehandlet"
+        }
+      }
+    },
+    {
+      "nobbNr": 51203437,
+      "varetekst1": "GIPSPL GN13 12,5X1200X2400",
+      "varetekst2": "GYPROC NORMAL STANDARDGIPSPLATE",
+      "langVaretekst": "GIPSPL GN13 12,5X1200X2400, GYPROC NORMAL STANDARDGIPSPLATE",
+      "prisEnhet": "M_2",
+      "created": "2016-04-22T14:36:07.057",
+      "updated": "2020-03-13T11:49:39.543",
+      "vareType": "STANDARD",
+      "produsentVareNr": "5200597860",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940210",
+        "beskrivelse": "Gipsplater Ubehandlet"
+      },
+      "nobbModul": {
+        "nobbModulNr": 11184199,
+        "merkenavn": "Gyproc",
+        "modultekst1": "GYPROC NORMAL STANDARDGIPSPLATE",
+        "modultekst2": "STANDARDGIPSPL, BREDDE X/1200",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940210",
+          "beskrivelse": "Gipsplater Ubehandlet"
+        }
+      }
+    },
+    {
+      "nobbNr": 51204281,
+      "varetekst1": "BYGNINGSPL UTV GHSE9 9,5X900X2700",
+      "varetekst2": "GLASROC STORM VINDTETTINGSPLATE",
+      "langVaretekst": "Glasroc H Storm Ergo GHSE 9 Vindtettingsplate av uorganisk materiale i format 9,5x900x2700",
+      "prisEnhet": "M_2",
+      "created": "2016-04-22T14:42:06.037",
+      "updated": "2020-03-13T11:49:40.76",
+      "vareType": "STANDARD",
+      "produsentVareNr": "5200601160",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940740",
+        "beskrivelse": "Komposittplater"
+      },
+      "nobbModul": {
+        "nobbModulNr": 40522856,
+        "merkenavn": "Glasroc",
+        "modultekst1": "GLASROC H STORM VINDTETTINGSPLATE",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940740",
+          "beskrivelse": "Komposittplater"
+        }
+      }
+    },
+    {
+      "nobbNr": 51573018,
+      "varetekst1": "FUGESKUM ALL SEASON GUN 750ML",
+      "langVaretekst": "Bostik fugeskum ALL SEASON GUN NY 750 ML",
+      "prisEnhet": "STK",
+      "created": "2016-10-10T09:25:29.527",
+      "updated": "2018-12-12T22:28:27.357",
+      "vareType": "STANDARD",
+      "produsentVareNr": "30860134",
+      "nobbVaregruppe": {
+        "varegruppeNr": "2022300",
+        "beskrivelse": "Fugeskum"
+      },
+      "nobbModul": {
+        "nobbModulNr": 21060744,
+        "merkenavn": "BOSTIK",
+        "modultekst1": "FUGESKUM/TILBEHØR",
+        "nobbVaregruppe": {
+          "varegruppeNr": "2022300",
+          "beskrivelse": "Fugeskum"
+        }
+      }
+    },
+    {
+      "nobbNr": 51935312,
+      "varetekst1": "FURU 18X095X4400 UTFOR NCS S0502Y",
+      "varetekst2": "UTFORING FERDIG MALT",
+      "langVaretekst": "UTFORING I FURU MALT NCS S0502Y I DIMENSJON 18X95X4400MM",
+      "prisEnhet": "STK",
+      "created": "2017-01-23T21:26:29.28",
+      "updated": "2020-01-02T13:18:40.747",
+      "vareType": "STANDARD",
+      "produsentVareNr": "1200844018095",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0511300",
+        "beskrivelse": "Utforinger F/G Beh"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42067897,
+        "merkenavn": "Combiwood",
+        "modultekst1": "FURU UTFORING 4,4M NCS S0502Y",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0511300",
+          "beskrivelse": "Utforinger F/G Beh"
+        }
+      }
+    },
+    {
+      "nobbNr": 51935342,
+      "varetekst1": "FURU 18X120X4400 UTFOR NCS S0502Y",
+      "varetekst2": "UTFORING FERDIG MALT",
+      "langVaretekst": "UTFORING I FURU MALT NCS S0502Y I DIMENSJON 18X120X4400MM",
+      "prisEnhet": "STK",
+      "created": "2017-01-23T21:26:30.137",
+      "updated": "2020-01-02T13:18:40.78",
+      "vareType": "STANDARD",
+      "produsentVareNr": "1200844018120",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0511300",
+        "beskrivelse": "Utforinger F/G Beh"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42067897,
+        "merkenavn": "Combiwood",
+        "modultekst1": "FURU UTFORING 4,4M NCS S0502Y",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0511300",
+          "beskrivelse": "Utforinger F/G Beh"
+        }
+      }
+    },
+    {
+      "nobbNr": 51935376,
+      "varetekst1": "FURU 18X145X4400 UTFOR NCS S0502Y",
+      "varetekst2": "UTFORING FERDIG MALT",
+      "langVaretekst": "UTFORING I FURU MALT NCS S0502Y I DIMENSJON 18X145X4400MM",
+      "prisEnhet": "STK",
+      "created": "2017-01-23T21:26:31.133",
+      "updated": "2020-01-02T13:18:40.843",
+      "vareType": "STANDARD",
+      "produsentVareNr": "1200844018145",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0511300",
+        "beskrivelse": "Utforinger F/G Beh"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42067897,
+        "merkenavn": "Combiwood",
+        "modultekst1": "FURU UTFORING 4,4M NCS S0502Y",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0511300",
+          "beskrivelse": "Utforinger F/G Beh"
+        }
+      }
+    },
+    {
+      "nobbNr": 51935395,
+      "varetekst1": "FURU 18X170X2400 UTFOR NCS S0502Y",
+      "varetekst2": "UTFORING FERDIG MALT",
+      "langVaretekst": "UTFORING I FURU MALT NCS S0502Y I DIMENSJON 18X170X2400MM",
+      "prisEnhet": "STK",
+      "created": "2017-01-23T21:26:31.79",
+      "updated": "2019-08-29T14:15:35.327",
+      "vareType": "STANDARD",
+      "produsentVareNr": "1200824018170",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0511300",
+        "beskrivelse": "Utforinger F/G Beh"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42069233,
+        "merkenavn": "Combiwood",
+        "modultekst1": "FURU UTFORING 2,4M NCS S0502Y",
+        "modultekst2": "2400MM LENGDE",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0511300",
+          "beskrivelse": "Utforinger F/G Beh"
+        }
+      }
+    },
+    {
+      "nobbNr": 51935406,
+      "varetekst1": "FURU 18X170X4400 UTFOR NCS S0502Y",
+      "varetekst2": "UTFORING FERDIG MALT",
+      "langVaretekst": "UTFORING I FURU MALT NCS S0502Y I DIMENSJON 18X170X4400MM",
+      "prisEnhet": "STK",
+      "created": "2017-01-23T21:26:32.15",
+      "updated": "2020-01-02T13:18:40.89",
+      "vareType": "STANDARD",
+      "produsentVareNr": "1200844018170",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0511300",
+        "beskrivelse": "Utforinger F/G Beh"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42067897,
+        "merkenavn": "Combiwood",
+        "modultekst1": "FURU UTFORING 4,4M NCS S0502Y",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0511300",
+          "beskrivelse": "Utforinger F/G Beh"
+        }
+      }
+    },
+    {
+      "nobbNr": 51935425,
+      "varetekst1": "FURU 18X195X2400 UTFOR NCS S0502Y",
+      "varetekst2": "UTFORING FERDIG MALT",
+      "langVaretekst": "UTFORING I FURU MALT NCS S0502Y I DIMENSJON 18X195X2400MM",
+      "prisEnhet": "STK",
+      "created": "2017-01-23T21:26:32.837",
+      "updated": "2019-08-29T14:15:35.327",
+      "vareType": "STANDARD",
+      "produsentVareNr": "1200824018195",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0511300",
+        "beskrivelse": "Utforinger F/G Beh"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42069233,
+        "merkenavn": "Combiwood",
+        "modultekst1": "FURU UTFORING 2,4M NCS S0502Y",
+        "modultekst2": "2400MM LENGDE",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0511300",
+          "beskrivelse": "Utforinger F/G Beh"
+        }
+      }
+    },
+    {
+      "nobbNr": 51935433,
+      "varetekst1": "FURU 18X195X4400 UTFOR NCS S0502Y",
+      "varetekst2": "UTFORING FERDIG MALT",
+      "langVaretekst": "UTFORING I FURU MALT NCS S0502Y I DIMENSJON 18X195X4400MM",
+      "prisEnhet": "STK",
+      "created": "2017-01-23T21:26:33.147",
+      "updated": "2020-01-02T13:18:40.937",
+      "vareType": "STANDARD",
+      "produsentVareNr": "1200844018195",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0511300",
+        "beskrivelse": "Utforinger F/G Beh"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42067897,
+        "merkenavn": "Combiwood",
+        "modultekst1": "FURU UTFORING 4,4M NCS S0502Y",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0511300",
+          "beskrivelse": "Utforinger F/G Beh"
+        }
+      }
+    },
+    {
+      "nobbNr": 51938505,
+      "varetekst1": "FURU 10X058 DØRSET KARM RUND S0502Y",
+      "varetekst2": "KARMLIST RUND SET 1/1100MM 2/2200MM",
+      "langVaretekst": "KARMLIST RUND I FURU MALT NCS S0502Y I DIMENSJON 10X58MM DØRSETT 2 STK A 2200MM - 1 STK A 1100MM",
+      "prisEnhet": "SET",
+      "created": "2017-01-25T15:35:09.377",
+      "updated": "2020-01-31T10:40:40.933",
+      "vareType": "STANDARD",
+      "produsentVareNr": "1200100310058",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0511150",
+        "beskrivelse": "Karm-/Kombinasjonslist F/G Beh."
+      },
+      "nobbModul": {
+        "nobbModulNr": 42068423,
+        "merkenavn": "Combiwood",
+        "modultekst1": "FURU KARMLIST DØRSETT NCS S0502Y",
+        "modultekst2": "KARMLIST RUND 2/2200MM - 1/1100MM",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0511150",
+          "beskrivelse": "Karm-/Kombinasjonslist F/G Beh."
+        }
+      }
+    },
+    {
+      "nobbNr": 51938524,
+      "varetekst1": "FURU 12X058 DØRSET KARM RUND S0502Y",
+      "varetekst2": "KARMLIST RUND SET 1/1100MM 2/2200MM",
+      "langVaretekst": "KARMLIST RUND I FURU MALT NCS S0502Y I DIMENSJON 12X58MM DØRSETT 2 STK A 2200MM - 1 STK A 1100MM",
+      "prisEnhet": "SET",
+      "created": "2017-01-25T15:35:10.267",
+      "updated": "2020-01-31T10:40:40.933",
+      "vareType": "STANDARD",
+      "produsentVareNr": "1200100312058",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0511150",
+        "beskrivelse": "Karm-/Kombinasjonslist F/G Beh."
+      },
+      "nobbModul": {
+        "nobbModulNr": 42068423,
+        "merkenavn": "Combiwood",
+        "modultekst1": "FURU KARMLIST DØRSETT NCS S0502Y",
+        "modultekst2": "KARMLIST RUND 2/2200MM - 1/1100MM",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0511150",
+          "beskrivelse": "Karm-/Kombinasjonslist F/G Beh."
+        }
+      }
+    },
+    {
+      "nobbNr": 51938532,
+      "varetekst1": "FURU 12X069 DØRSET KARM RUND S0502Y",
+      "varetekst2": "KARMLIST RUND SET 1/1100MM 2/2200MM",
+      "langVaretekst": "KARMLIST RUND I FURU MALT NCS S0502Y I DIMENSJON 12X69MM DØRSETT 2 STK A 2200MM - 1 STK A 1100MM",
+      "prisEnhet": "SET",
+      "created": "2017-01-25T15:35:10.563",
+      "updated": "2020-01-31T10:40:40.933",
+      "vareType": "STANDARD",
+      "produsentVareNr": "1200100312069",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0511150",
+        "beskrivelse": "Karm-/Kombinasjonslist F/G Beh."
+      },
+      "nobbModul": {
+        "nobbModulNr": 42068423,
+        "merkenavn": "Combiwood",
+        "modultekst1": "FURU KARMLIST DØRSETT NCS S0502Y",
+        "modultekst2": "KARMLIST RUND 2/2200MM - 1/1100MM",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0511150",
+          "beskrivelse": "Karm-/Kombinasjonslist F/G Beh."
+        }
+      }
+    },
+    {
+      "nobbNr": 51947000,
+      "varetekst1": "FURU 10X058X4400 KARML NCS S0502Y",
+      "varetekst2": "KARMLIST RUND",
+      "langVaretekst": "KARMLIST RUND I FURU MALT NCS S0502Y I DIMENSJON 10X58X4400MM",
+      "prisEnhet": "STK",
+      "created": "2017-01-29T18:18:10.097",
+      "updated": "2020-01-02T08:35:58.843",
+      "vareType": "STANDARD",
+      "produsentVareNr": "1200044010058",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0511150",
+        "beskrivelse": "Karm-/Kombinasjonslist F/G Beh."
+      },
+      "nobbModul": {
+        "nobbModulNr": 42067019,
+        "merkenavn": "Combiwood",
+        "modultekst1": "FURU KARMLIST RUND NCS S0502Y",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0511150",
+          "beskrivelse": "Karm-/Kombinasjonslist F/G Beh."
+        }
+      }
+    },
+    {
+      "nobbNr": 51947034,
+      "varetekst1": "FURU 12X058X4400 KARML NCS S0502Y",
+      "varetekst2": "KARMLIST RUND",
+      "langVaretekst": "KARMLIST RUND I FURU MALT NCS S0502Y I DIMENSJON 12X58X4400MM",
+      "prisEnhet": "STK",
+      "created": "2017-01-29T18:18:11.233",
+      "updated": "2020-01-02T08:35:58.903",
+      "vareType": "STANDARD",
+      "produsentVareNr": "1200044012058",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0511150",
+        "beskrivelse": "Karm-/Kombinasjonslist F/G Beh."
+      },
+      "nobbModul": {
+        "nobbModulNr": 42067019,
+        "merkenavn": "Combiwood",
+        "modultekst1": "FURU KARMLIST RUND NCS S0502Y",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0511150",
+          "beskrivelse": "Karm-/Kombinasjonslist F/G Beh."
+        }
+      }
+    },
+    {
+      "nobbNr": 51947117,
+      "varetekst1": "FURU 15X070X4400 KARM CW116 S0502Y",
+      "varetekst2": "KARMLIST PROFILERT CW116",
+      "langVaretekst": "KARMLIST PROFIL CW 116 I FURU MALT NCS S0502Y I DIMENSJON 15X70X4400MM",
+      "prisEnhet": "STK",
+      "created": "2017-01-29T18:18:14.387",
+      "updated": "2020-01-03T08:14:42.957",
+      "vareType": "STANDARD",
+      "produsentVareNr": "12032440116",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0511150",
+        "beskrivelse": "Karm-/Kombinasjonslist F/G Beh."
+      },
+      "nobbModul": {
+        "nobbModulNr": 42067545,
+        "merkenavn": "Combiwood",
+        "modultekst1": "FURU KARMLIST PROFILERT  NCS S0502Y",
+        "modultekst2": "MALT NCS S 0502Y",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0511150",
+          "beskrivelse": "Karm-/Kombinasjonslist F/G Beh."
+        }
+      }
+    },
+    {
+      "nobbNr": 51947382,
+      "varetekst1": "FURU 12X058X4400 GULVL NCS S0502Y",
+      "varetekst2": "GULVLIST RUND",
+      "langVaretekst": "GULVLIST RUND KANT I FURU MALT NCS S0502Y I DIMENSJON 12X58X4400MM",
+      "prisEnhet": "STK",
+      "created": "2017-01-29T18:18:24.837",
+      "updated": "2020-01-02T15:22:43.917",
+      "vareType": "STANDARD",
+      "produsentVareNr": "1200544012058",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0511100",
+        "beskrivelse": "Fotlist/Sokkellist F/G Beh"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42066974,
+        "merkenavn": "Combiwood",
+        "modultekst1": "FURU GULVLIST RUND NCS S0502Y",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0511100",
+          "beskrivelse": "Fotlist/Sokkellist F/G Beh"
+        }
+      }
+    },
+    {
+      "nobbNr": 51947484,
+      "varetekst1": "FURU 15X070X4400 GULV CW233 S0502Y",
+      "varetekst2": "GULVLIST PROFILERT CW233",
+      "langVaretekst": "GULVLIST PROFIL CW 233 I FURU MALT NCS S0502Y I DIMENSJON 15X70X4400MM",
+      "prisEnhet": "STK",
+      "created": "2017-01-29T18:18:28.847",
+      "updated": "2020-01-03T08:25:56.497",
+      "vareType": "STANDARD",
+      "produsentVareNr": "12035440233",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0511100",
+        "beskrivelse": "Fotlist/Sokkellist F/G Beh"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42067564,
+        "merkenavn": "Combiwood",
+        "modultekst1": "FURU GULVLIST PROFILERT NCS S0502Y",
+        "modultekst2": "MALT NCS S0502Y",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0511100",
+          "beskrivelse": "Fotlist/Sokkellist F/G Beh"
+        }
+      }
+    },
+    {
+      "nobbNr": 51947658,
+      "varetekst1": "FURU 33X033X2700 VINKEL NCS S0502Y",
+      "varetekst2": "VINKELLIST",
+      "langVaretekst": "VINKELLIST I FURU MALT NCS S0502Y I DIMENSJON 33X33X2700MM",
+      "prisEnhet": "STK",
+      "created": "2017-01-29T18:18:35.867",
+      "updated": "2020-01-02T08:35:59.17",
+      "vareType": "STANDARD",
+      "produsentVareNr": "1202627033033",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0511600",
+        "beskrivelse": "Vinkellist F/G Beh"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42067859,
+        "merkenavn": "Combiwood",
+        "modultekst1": "FURU VINKELLIST NCS S0502Y",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0511600",
+          "beskrivelse": "Vinkellist F/G Beh"
+        }
+      }
+    },
+    {
+      "nobbNr": 51948154,
+      "varetekst1": "FURU 21X034X4400 TAK RUN NCS S0502Y",
+      "varetekst2": "TAKLIST RUND",
+      "langVaretekst": "TAKLIST RUND I FURU MALT  NCS S0502Y I DIMENSJON 21X34X4400MM",
+      "prisEnhet": "STK",
+      "created": "2017-01-29T18:18:56.1",
+      "updated": "2020-01-02T15:22:44.243",
+      "vareType": "STANDARD",
+      "produsentVareNr": "1201044021034",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0511200",
+        "beskrivelse": "Taklist F/G Beh"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42068321,
+        "merkenavn": "Combiwood",
+        "modultekst1": "FURU TAKLIST RUND NCS S0502Y",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0511200",
+          "beskrivelse": "Taklist F/G Beh"
+        }
+      }
+    },
+    {
+      "nobbNr": 51978795,
+      "varetekst1": "FURU 43X043X2700 VINKEL NCS S0502Y",
+      "varetekst2": "VINKELLIST",
+      "langVaretekst": "VINKELLIST I FURU MALT NCS S0502Y I DIMENSJON 43X43X2700MM",
+      "prisEnhet": "STK",
+      "created": "2017-02-07T14:58:57.367",
+      "updated": "2020-01-02T08:36:00.31",
+      "vareType": "STANDARD",
+      "produsentVareNr": "1203627043043",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0511600",
+        "beskrivelse": "Vinkellist F/G Beh"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42067859,
+        "merkenavn": "Combiwood",
+        "modultekst1": "FURU VINKELLIST NCS S0502Y",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0511600",
+          "beskrivelse": "Vinkellist F/G Beh"
+        }
+      }
+    },
+    {
+      "nobbNr": 52023300,
+      "varetekst1": "DØRBL STABLE 9X21 KLASSISK HVIT",
+      "varetekst2": "NCS S0500-N MASSIV GLATT DØR",
+      "langVaretekst": "Dørblad Stable 9x21 KLASSISK HVIT støyreduserende massivdør SWEDOOR",
+      "prisEnhet": "STK",
+      "created": "2017-02-16T12:22:24.397",
+      "updated": "2019-08-20T16:00:24.253",
+      "vareType": "STANDARD",
+      "produsentVareNr": "002635",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1310500",
+        "beskrivelse": "Glatte Dører"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41965727,
+        "merkenavn": "Swedoor",
+        "modultekst1": "STABLE DØRBL KLASSISK HVIT",
+        "modultekst2": "MALT SLETT MASSIV DØR-NCS S0500-N",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1310500",
+          "beskrivelse": "Glatte Dører"
+        }
+      }
+    },
+    {
+      "nobbNr": 52023421,
+      "varetekst1": "DØRBL STABLE 9X21 HVIT",
+      "varetekst2": "MASSIV GLATT DØR",
+      "langVaretekst": "Dørblad Stable 9x21 Hvit støyreduserende massivdør SWEDOOR",
+      "prisEnhet": "STK",
+      "created": "2017-02-16T12:22:39.327",
+      "updated": "2019-08-20T16:00:24.253",
+      "vareType": "STANDARD",
+      "produsentVareNr": "002548",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1310500",
+        "beskrivelse": "Glatte Dører"
+      },
+      "nobbModul": {
+        "nobbModulNr": 40913972,
+        "merkenavn": "Swedoor",
+        "modultekst1": "STABLE DØRBL HVIT",
+        "modultekst2": "MALT SLETT MASSIV DØR",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1310500",
+          "beskrivelse": "Glatte Dører"
+        }
+      }
+    },
+    {
+      "nobbNr": 53533862,
+      "varetekst1": "PARKETT 15 PARIS ULTRAMATT 227",
+      "varetekst2": "1 STAV MIKROFASET BØRSTET",
+      "langVaretekst": "Kahrs parkett Eik Paris 1-stav plank, børstet, mikrofaset, hvit, ultramatt, 15x187x2266mm",
+      "prisEnhet": "M_2",
+      "created": "2018-01-10T09:16:48.737",
+      "updated": "2020-02-12T12:00:02.873",
+      "vareType": "STANDARD",
+      "produsentVareNr": "151N4AEK4JKW220",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1512001",
+        "beskrivelse": "Parkett"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41935756,
+        "merkenavn": "Kährs",
+        "modultekst1": "CAPITAL COLLECTION",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1512001",
+          "beskrivelse": "Parkett"
+        }
+      }
+    },
+    {
+      "nobbNr": 53672235,
+      "varetekst1": "LAMINATG ORIGINAL ELEGANT EIK NATUR",
+      "varetekst2": "11MM PK=1,9119M2 8 BORD",
+      "langVaretekst": "BERRYALLOC ORIGINAL HPL LAMINATGULV ELEGANT EIK NATUR WSOT",
+      "prisEnhet": "M_2",
+      "created": "2018-03-01T10:16:20.837",
+      "updated": "2019-09-10T14:00:20.04",
+      "vareType": "STANDARD",
+      "produsentVareNr": "62001238",
+      "nobbVaregruppe": {
+        "varegruppeNr": "1513001",
+        "beskrivelse": "Laminatgulv"
+      },
+      "nobbModul": {
+        "nobbModulNr": 21984323,
+        "merkenavn": "BerryAlloc",
+        "modultekst1": "BERRYALLOC HPL ORIGINAL",
+        "nobbVaregruppe": {
+          "varegruppeNr": "1513001",
+          "beskrivelse": "Laminatgulv"
+        }
+      }
+    },
+    {
+      "nobbNr": 54229257,
+      "varetekst1": "FURU 30X048 LEKT KL1 CUIMP",
+      "varetekst2": "IMPREGNERT",
+      "langVaretekst": "Lekt kl1 furu impregnert 30x048",
+      "prisEnhet": "LM",
+      "created": "2018-05-24T15:32:20.277",
+      "updated": "2019-11-27T07:38:35.977",
+      "vareType": "STANDARD",
+      "produsentVareNr": "23401656",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0502350",
+        "beskrivelse": "Rekke Lekt Cu Imp"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42130337,
+        "merkenavn": "Moelven",
+        "modultekst1": "LEKT CU IMP",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0502350",
+          "beskrivelse": "Rekke Lekt Cu Imp"
+        }
+      }
+    },
+    {
+      "nobbNr": 54229280,
+      "varetekst1": "FURU 36X048 LEKT KL1 CUIMP",
+      "varetekst2": "IMPREGNERT",
+      "langVaretekst": "Lekt kl1 furu impregnert 36x048",
+      "prisEnhet": "LM",
+      "created": "2018-05-24T15:32:21.18",
+      "updated": "2019-11-27T07:38:36.13",
+      "vareType": "STANDARD",
+      "produsentVareNr": "25411299",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0502350",
+        "beskrivelse": "Rekke Lekt Cu Imp"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42130337,
+        "merkenavn": "Moelven",
+        "modultekst1": "LEKT CU IMP",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0502350",
+          "beskrivelse": "Rekke Lekt Cu Imp"
+        }
+      }
+    },
+    {
+      "nobbNr": 54229344,
+      "varetekst1": "G-F 48X048 LEKT KL1",
+      "langVaretekst": "Lekt kl1 gran-furu 48x048",
+      "prisEnhet": "LM",
+      "created": "2018-05-24T15:32:23.287",
+      "updated": "2019-11-27T07:38:36.42",
+      "vareType": "STANDARD",
+      "produsentVareNr": "11302676",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0502300",
+        "beskrivelse": "Rekke Lekt Furu/Gran"
+      },
+      "nobbModul": {
+        "nobbModulNr": 23935786,
+        "merkenavn": "Moelven",
+        "modultekst1": "LEKT FURU/GRAN",
+        "modultekst2": "JUSTERT",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0502300",
+          "beskrivelse": "Rekke Lekt Furu/Gran"
+        }
+      }
+    },
+    {
+      "nobbNr": 54229594,
+      "varetekst1": "GRAN 48X148 K-VIRKE C24",
+      "langVaretekst": "Konstruksjonsvirke C24 gran 48x148",
+      "prisEnhet": "LM",
+      "created": "2018-05-24T15:32:32.163",
+      "updated": "2020-03-13T12:07:30.603",
+      "vareType": "STANDARD",
+      "produsentVareNr": "11303666",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0502100",
+        "beskrivelse": "K-Virke Furu/Gran"
+      },
+      "nobbModul": {
+        "nobbModulNr": 25024233,
+        "merkenavn": "Moelven",
+        "modultekst1": "K-VIRKE GRAN",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0502100",
+          "beskrivelse": "K-Virke Furu/Gran"
+        }
+      }
+    },
+    {
+      "nobbNr": 54229821,
+      "varetekst1": "GRAN 48X198 K-VIRKE C24",
+      "langVaretekst": "Konstruksjonsvirke C24 gran 48x198",
+      "prisEnhet": "LM",
+      "created": "2018-05-24T15:32:39.557",
+      "updated": "2020-03-13T12:07:30.603",
+      "vareType": "STANDARD",
+      "produsentVareNr": "11303682",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0502100",
+        "beskrivelse": "K-Virke Furu/Gran"
+      },
+      "nobbModul": {
+        "nobbModulNr": 25024233,
+        "merkenavn": "Moelven",
+        "modultekst1": "K-VIRKE GRAN",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0502100",
+          "beskrivelse": "K-Virke Furu/Gran"
+        }
+      }
+    },
+    {
+      "nobbNr": 54229961,
+      "varetekst1": "FURU 19X148 REKT KLED KL1 CUIMP",
+      "varetekst2": "IMPREGNERT",
+      "langVaretekst": "Kledning rektangulær kl1 furu impregnert 19x148",
+      "prisEnhet": "LM",
+      "created": "2018-05-24T15:32:44.237",
+      "updated": "2020-02-03T15:50:44",
+      "vareType": "STANDARD",
+      "produsentVareNr": "25386426",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0504150",
+        "beskrivelse": "Rektangulær Kledning Cu Imp"
+      },
+      "nobbModul": {
+        "nobbModulNr": 25414954,
+        "merkenavn": "Moelven",
+        "modultekst1": "REKTANGULÆR KLEDNING CU IMP",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0504150",
+          "beskrivelse": "Rektangulær Kledning Cu Imp"
+        }
+      }
+    },
+    {
+      "nobbNr": 54230313,
+      "varetekst1": "G-F 36X048 LEKT KL1",
+      "langVaretekst": "Lekt kl1 gran-furu 36x048",
+      "prisEnhet": "LM",
+      "created": "2018-05-24T15:32:56.03",
+      "updated": "2019-11-27T07:38:37.47",
+      "vareType": "STANDARD",
+      "produsentVareNr": "11302643",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0502300",
+        "beskrivelse": "Rekke Lekt Furu/Gran"
+      },
+      "nobbModul": {
+        "nobbModulNr": 23935786,
+        "merkenavn": "Moelven",
+        "modultekst1": "LEKT FURU/GRAN",
+        "modultekst2": "JUSTERT",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0502300",
+          "beskrivelse": "Rekke Lekt Furu/Gran"
+        }
+      }
+    },
+    {
+      "nobbNr": 54230604,
+      "varetekst1": "FURU 28X120 TERRASSE KL1 CUIMP",
+      "varetekst2": "IMPREGNERT",
+      "langVaretekst": "Terrassebord kl1 furu impregnert 28x120",
+      "prisEnhet": "LM",
+      "created": "2018-05-24T15:33:06.203",
+      "updated": "2019-10-18T13:51:39.097",
+      "vareType": "STANDARD",
+      "produsentVareNr": "25410978",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0506550",
+        "beskrivelse": "Terrasseb. Cu Imp G/F"
+      },
+      "nobbModul": {
+        "nobbModulNr": 25410903,
+        "merkenavn": "Moelven",
+        "modultekst1": "TERRASSEBORD CU IMP",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0506550",
+          "beskrivelse": "Terrasseb. Cu Imp G/F"
+        }
+      }
+    },
+    {
+      "nobbNr": 54230922,
+      "varetekst1": "FURU 48X148 K-VIRKE C24 CUIMP",
+      "varetekst2": "IMPREGNERT",
+      "langVaretekst": "Konstruksjonsvirke C24 furu impregnert 48x148",
+      "prisEnhet": "LM",
+      "created": "2018-05-24T15:33:18.31",
+      "updated": "2019-11-27T07:38:38.503",
+      "vareType": "STANDARD",
+      "produsentVareNr": "42807134",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0502150",
+        "beskrivelse": "K-Virke Cu Imp"
+      },
+      "nobbModul": {
+        "nobbModulNr": 25415191,
+        "merkenavn": "Moelven",
+        "modultekst1": "K-VIRKE CU IMP",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0502150",
+          "beskrivelse": "K-Virke Cu Imp"
+        }
+      }
+    },
+    {
+      "nobbNr": 54230941,
+      "varetekst1": "FURU 48X198 K-VIRKE C24 CUIMP",
+      "varetekst2": "IMPREGNERT",
+      "langVaretekst": "Konstruksjonsvirke C24 furu impregnert 48x198",
+      "prisEnhet": "LM",
+      "created": "2018-05-24T15:33:18.963",
+      "updated": "2019-11-26T10:50:29.443",
+      "vareType": "STANDARD",
+      "produsentVareNr": "42807164",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0502150",
+        "beskrivelse": "K-Virke Cu Imp"
+      },
+      "nobbModul": {
+        "nobbModulNr": 25415191,
+        "merkenavn": "Moelven",
+        "modultekst1": "K-VIRKE CU IMP",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0502150",
+          "beskrivelse": "K-Virke Cu Imp"
+        }
+      }
+    },
+    {
+      "nobbNr": 54230960,
+      "varetekst1": "FURU 48X098 K-VIRKE C24 CUIMP",
+      "varetekst2": "IMPREGNERT",
+      "langVaretekst": "Konstruksjonsvirke C24 furu impregnert 48x098",
+      "prisEnhet": "LM",
+      "created": "2018-05-24T15:33:19.62",
+      "updated": "2019-11-27T07:38:38.64",
+      "vareType": "STANDARD",
+      "produsentVareNr": "42807183",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0502150",
+        "beskrivelse": "K-Virke Cu Imp"
+      },
+      "nobbModul": {
+        "nobbModulNr": 25415191,
+        "merkenavn": "Moelven",
+        "modultekst1": "K-VIRKE CU IMP",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0502150",
+          "beskrivelse": "K-Virke Cu Imp"
+        }
+      }
+    },
+    {
+      "nobbNr": 54262933,
+      "varetekst1": "GRAN 48X098 K-VIRKE C24",
+      "langVaretekst": "Konstruksjonsvirke C24 gran 48x098",
+      "prisEnhet": "LM",
+      "created": "2018-05-29T12:55:44.627",
+      "updated": "2020-03-13T12:07:30.603",
+      "vareType": "STANDARD",
+      "produsentVareNr": "11303641",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0502100",
+        "beskrivelse": "K-Virke Furu/Gran"
+      },
+      "nobbModul": {
+        "nobbModulNr": 25024233,
+        "merkenavn": "Moelven",
+        "modultekst1": "K-VIRKE GRAN",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0502100",
+          "beskrivelse": "K-Virke Furu/Gran"
+        }
+      }
+    },
+    {
+      "nobbNr": 55244174,
+      "varetekst1": "WEBER B20 TØRRBETONG 25KG S",
+      "varetekst2": "PLASTSEKK FRA FABRIKK SKI",
+      "langVaretekst": "WEBER B20 TØRRBETONG 25KG S, PLASTSEKK FRA FABRIKK SKI",
+      "prisEnhet": "SEK",
+      "created": "2018-12-03T12:07:53.47",
+      "updated": "2020-01-15T09:00:17.043",
+      "vareType": "STANDARD",
+      "produsentVareNr": "5200854255",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0601150",
+        "beskrivelse": "Støpemørtel"
+      },
+      "nobbModul": {
+        "nobbModulNr": 21326707,
+        "merkenavn": "Weber",
+        "modultekst1": "WEBER TØRRBETONG B20",
+        "modultekst2": "",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0601150",
+          "beskrivelse": "Støpemørtel"
+        }
+      }
+    },
+    {
+      "nobbNr": 55244185,
+      "varetekst1": "WEBER B30 TØRRBETONG 25KG S",
+      "varetekst2": "PLASTSEKK FRA FABRIKK SKI",
+      "langVaretekst": "WEBER B30 TØRRBETONG 25KG S, PLASTSEKK FRA FABRIKK SKI",
+      "prisEnhet": "SEK",
+      "created": "2018-12-03T12:07:54.47",
+      "updated": "2020-01-15T09:00:17.043",
+      "vareType": "STANDARD",
+      "produsentVareNr": "5200854259",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0601150",
+        "beskrivelse": "Støpemørtel"
+      },
+      "nobbModul": {
+        "nobbModulNr": 28117919,
+        "merkenavn": "Weber",
+        "modultekst1": "WEBER TØRRBETONG B30",
+        "modultekst2": "",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0601150",
+          "beskrivelse": "Støpemørtel"
+        }
+      }
+    },
+    {
+      "nobbNr": 55244204,
+      "varetekst1": "WEBER MURMØRTEL M5 25KG S",
+      "varetekst2": "PLASTSEKK FRA FABRIKK SKI",
+      "langVaretekst": "WEBER MURMØRTEL M5 25KG S, PLASTSEKK FRA FABRIKK SKI",
+      "prisEnhet": "SEK",
+      "created": "2018-12-03T12:07:55.67",
+      "updated": "2020-01-15T09:00:17.043",
+      "vareType": "STANDARD",
+      "produsentVareNr": "5200854261",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0601110",
+        "beskrivelse": "Mur- og Pussmørtel"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41897222,
+        "merkenavn": "Weber",
+        "modultekst1": "WEBER MURMØRTEL M5",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0601110",
+          "beskrivelse": "Mur- og Pussmørtel"
+        }
+      }
+    },
+    {
+      "nobbNr": 55244223,
+      "varetekst1": "WEBER KC50/50 MUR PUSSMØRTEL 25KG S",
+      "varetekst2": "PLASTSEKK FRA FABRIKK SKI",
+      "langVaretekst": "WEBER KC50/50 MUR PUSSMØRTEL 25KG S, PLASTSEKK FRA FABRIKK SKI",
+      "prisEnhet": "SEK",
+      "created": "2018-12-03T12:07:56.7",
+      "updated": "2020-01-15T09:00:17.043",
+      "vareType": "STANDARD",
+      "produsentVareNr": "5200854263",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0601110",
+        "beskrivelse": "Mur- og Pussmørtel"
+      },
+      "nobbModul": {
+        "nobbModulNr": 28069789,
+        "merkenavn": "Weber",
+        "modultekst1": "WEBER BASE KC50/50 MUR-/PUSSMØRTEL",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0601110",
+          "beskrivelse": "Mur- og Pussmørtel"
+        }
+      }
+    },
+    {
+      "nobbNr": 55244238,
+      "varetekst1": "WEBER KC35/65 MUR PUSSMØRTEL 25KG S",
+      "varetekst2": "PLASTSEKK FRA FABRIKK SKI",
+      "langVaretekst": "WEBER KC35/65 MUR PUSSMØRTEL 25KG S, PLASTSEKK FRA FABRIKK SKI",
+      "prisEnhet": "SEK",
+      "created": "2018-12-03T12:07:56.963",
+      "updated": "2020-01-15T09:00:17.043",
+      "vareType": "STANDARD",
+      "produsentVareNr": "5200854264",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0601110",
+        "beskrivelse": "Mur- og Pussmørtel"
+      },
+      "nobbModul": {
+        "nobbModulNr": 27979830,
+        "merkenavn": "Weber",
+        "modultekst1": "WEBER BASE KC35/65 MUR-/PUSSMØRTEL",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0601110",
+          "beskrivelse": "Mur- og Pussmørtel"
+        }
+      }
+    },
+    {
+      "nobbNr": 55448377,
+      "varetekst1": "FOCUS MDF PANELB SKYGGE HVIT 2390",
+      "varetekst2": "11X140X2390 KM NCS S 0502-Y",
+      "langVaretekst": "FOCUS MDF Panelbord skygge Hvit kostemalt NCS S 0502-Y 11x140x2390mm",
+      "prisEnhet": "M_2",
+      "created": "2019-02-26T14:52:33.977",
+      "updated": "2019-11-05T09:07:23.11",
+      "vareType": "STANDARD",
+      "produsentVareNr": "152001",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940420",
+        "beskrivelse": "Mdf-Plater Ferdigbehandlet"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41296377,
+        "merkenavn": "FOCUS",
+        "modultekst1": "FOCUS MDF PANELBORD",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940420",
+          "beskrivelse": "Mdf-Plater Ferdigbehandlet"
+        }
+      }
+    },
+    {
+      "nobbNr": 55448453,
+      "varetekst1": "FOCUS MDF PANELB SKYGGE HVIT 4190",
+      "varetekst2": "11X140X4190 KM NCS S 0502-Y",
+      "langVaretekst": "FOCUS MDF Panelbord skygge Hvit kostemalt NCS S 0502 Y 11x140x4190mm",
+      "prisEnhet": "M_2",
+      "created": "2019-02-26T14:56:32.557",
+      "updated": "2019-11-05T09:05:59.68",
+      "vareType": "STANDARD",
+      "produsentVareNr": "152005",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0940420",
+        "beskrivelse": "Mdf-Plater Ferdigbehandlet"
+      },
+      "nobbModul": {
+        "nobbModulNr": 41296377,
+        "merkenavn": "FOCUS",
+        "modultekst1": "FOCUS MDF PANELBORD",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0940420",
+          "beskrivelse": "Mdf-Plater Ferdigbehandlet"
+        }
+      }
+    },
+    {
+      "nobbNr": 56085434,
+      "varetekst1": "FURU 28X120X3900 TERRASSE KL1 CU FL",
+      "varetekst2": "IMPREGNERT",
+      "langVaretekst": "Terrassebord kl1 furu impregnert 28x120x3900. 8,2 lm/m2",
+      "prisEnhet": "STK",
+      "created": "2019-07-15T08:18:39.89",
+      "updated": "2019-11-18T13:37:05.787",
+      "vareType": "STANDARD",
+      "produsentVareNr": "67281200150093900",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0506550",
+        "beskrivelse": "Terrasseb. Cu Imp G/F"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42051835,
+        "merkenavn": "Moelven",
+        "modultekst1": "TERRASSEBORD CU IMP FOT STK-MO",
+        "modultekst2": "STK-MOELVEN",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0506550",
+          "beskrivelse": "Terrasseb. Cu Imp G/F"
+        }
+      }
+    },
+    {
+      "nobbNr": 56085445,
+      "varetekst1": "FURU 28X120X4200 TERRASSE KL1 CU FL",
+      "varetekst2": "IMPREGNERT",
+      "langVaretekst": "Terrassebord kl1 furu impregnert 28x120x4200. 8,2 lm/m2",
+      "prisEnhet": "STK",
+      "created": "2019-07-15T08:18:40.403",
+      "updated": "2019-11-18T13:37:06.24",
+      "vareType": "STANDARD",
+      "produsentVareNr": "67281200150094200",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0506550",
+        "beskrivelse": "Terrasseb. Cu Imp G/F"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42051835,
+        "merkenavn": "Moelven",
+        "modultekst1": "TERRASSEBORD CU IMP FOT STK-MO",
+        "modultekst2": "STK-MOELVEN",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0506550",
+          "beskrivelse": "Terrasseb. Cu Imp G/F"
+        }
+      }
+    },
+    {
+      "nobbNr": 56085453,
+      "varetekst1": "FURU 28X120X4500 TERRASSE KL1 CU FL",
+      "varetekst2": "IMPREGNERT",
+      "langVaretekst": "Terrassebord kl1 furu impregnert 28x120x4500. 8,2 lm/m2",
+      "prisEnhet": "STK",
+      "created": "2019-07-15T08:18:41.277",
+      "updated": "2019-11-18T13:37:06.677",
+      "vareType": "STANDARD",
+      "produsentVareNr": "67281200150094500",
+      "nobbVaregruppe": {
+        "varegruppeNr": "0506550",
+        "beskrivelse": "Terrasseb. Cu Imp G/F"
+      },
+      "nobbModul": {
+        "nobbModulNr": 42051835,
+        "merkenavn": "Moelven",
+        "modultekst1": "TERRASSEBORD CU IMP FOT STK-MO",
+        "modultekst2": "STK-MOELVEN",
+        "nobbVaregruppe": {
+          "varegruppeNr": "0506550",
+          "beskrivelse": "Terrasseb. Cu Imp G/F"
+        }
+      }
+    }
+  ],
+  "id": 653625
+}

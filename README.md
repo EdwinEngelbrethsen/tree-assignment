@@ -1,68 +1,75 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Tree-assignment - Mestergruppen hjemmeoppgave i frontend/react
+I denne oppgaven ønsker vi å teste dere i react. 
+NB! Vi ønsker ikke at du kjører gjør en npm run eject eller react-scripts eject. 
+NB! VI ønsker heller ikke at du bruker et ferdig bibliotek for å lage "tree-view" i sidebar. 
 
-## Available Scripts
+Vi ønsker at du lager et produktsøk-view med fokus på filtrering av søkeresultatet.
 
-In the project directory, you can run:
+Siden skal bestå av 3 elementer. En header, en left-sidebar og en produktliste-view. (Se skisse på figma: https://www.figma.com/file/CToNjuRLFzhq8A89SzH5KN/Tree-view?node-id=0%3A1) (beklager dårlig figma skills)
 
-### `npm start`
+# Data
+I /src/data finner dere 2 json filer. 
+fokusvarer.json er "alle" data. Alle produkter har en varegruppe. 
+varegrupper.json inneholder kategorisering av alle mulige varegrupper. Varegruppene består av 3 nivåer; Overgruppe, Hovedgruppe og Varegruppe. 
+I produkt-dataen vil du kun finne knytning mot en varegruppe, det er opp til deg å finne ut hvilken hovedruppe og overgruppe produktet tilhører. 
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Oppgave
+## Header (vektlegging: 0.5)
+Her er det ikke vits å bruke for mye tid, finn en bakgrunnsfarge dere liker + Simpel h1 med teksten "Prisinnsikt". Dere kan være kreative når underliggene er løst.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Left-sidebar (Vektlegging: 4.5)
+1) Her ønsker vi at dere lager et tree-filter(se skjermbilde1.png) som gjør at dere kan filtrere resultat listen. (Ligner veldig på finn.no sitt filter). Count/antall er ikke viktig i første omgang
+2) Simpel søkeboks som filtrerer i søkeresultatet. Skal kunne slå opp by id(nobbNr) og fritekstsøk på produktnavn(langVaretekst). Se skjermbilde2.png
+3) Hvis dere kommer så langt; lag count slik som i skjermbildet. 
 
-### `npm test`
+## Produktliste-view (Vektlegging: 2)
+1) Her vil jeg at dere skal presentere dataen på en fin og ryddig måte. Dere kan velge å presentere det akkurat som dere vil. Listeview, tableview, gridview alt er opp til dere. (eksempel se skjermbilde3.png)
+2) Om dere får tid kan dere lage kule animasjoner / hover-effekt / popup etc.. 
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Ekstra utfordring:
+Skriv tester
 
-### `npm run build`
+# UI
+Du kan bruke ui-bibliotek til å lage checkbox+texter. Men du kan ikke bruke ferdig bibliotek som har tree-view innebygd. Vi ønsker å se at du lager tree-viewet fra scratch.
+Du kan også lage css'en selv, eller du kan bruke styled-components. 
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Vurdering
+- Vi vil se hvordan modeller data og state håndtering.
+- Vi vektlegger funksjonalitet høyere enn utsende. 
+- Sturktur og orden i kode.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# For å kjøre applikasjonen
+```
+$ npm install
+$ npm start
+```
 
-### `npm run eject`
+Åpne http://localhost:3000
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Hvordan importere data
+Vi har gjort det enkelt slik at du kan importere json filene inne i src/data. Alt du trenger å importere filene øverst i fila der du vil bruke det. 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+import React from 'react';
+import products from '../data/fokusvarer.json'
+import varegrupper from '../data/varegrupper.json'
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+...
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+const Component = () => {
+  // bruk products her
+   return <div> ... </div>
+}
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Levering (velg 1 av 2)
+## Fork
+Fork vårt prosjekt og push på din egen repo. 
 
-### Code Splitting
+## Eget github repo
+Lag et public/private repo og push koden ditt. 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
