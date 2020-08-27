@@ -2,12 +2,16 @@
 I denne oppgaven ønsker vi å teste deg i React. Vi ønsker at du lager et produktsøk-view med fokus på filtrering av søkeresultatet. Vi ønsker ikke at du bruker et ferdig bibliotek for å lage "tree-view" i sidebar. 
 
 
-Siden skal bestå av 3 elementer. En header, en left-sidebar og en produktliste-view. (Se skisse på figma: https://www.figma.com/file/CToNjuRLFzhq8A89SzH5KN/Tree-view?node-id=0%3A1) (beklager for dårlig figma ferdigheter)
+Siden skal bestå av 3 elementer:
+* En header
+* En left-sidebar
+* Et produktliste-view
+(Se skisse på figma: https://www.figma.com/file/CToNjuRLFzhq8A89SzH5KN/Tree-view?node-id=0%3A1) (beklager dårlig figma ferdigheter)
 
 # Data
-I /src/data finner dere 2 json filer. 
-fokusvarer.json er "alle" data. Alle produkter har en varegruppe. 
-varegrupper.json inneholder kategorisering av alle mulige varegrupper. Varegruppene består av 3 nivåer; Overgruppe, Hovedgruppe og Varegruppe. 
+I `/src/data` finner dere 2 json filer:
+* `fokusvarer.json` - inneholder "alle" data. Alle produkter har en varegruppe. 
+* `varegrupper.json` - inneholder kategorisering av alle mulige varegrupper. Varegruppene består av 3 nivåer; Overgruppe, Hovedgruppe og Varegruppe. 
 I produkt-dataen vil du kun finne knytning mot en varegruppe, det er opp til deg å finne ut hvilken hovedruppe og overgruppe produktet tilhører. 
 
 # Oppgave
@@ -68,6 +72,6 @@ const Component = () => {
 Fork vårt prosjekt og push på din egen repo. 
 
 ## Eget github repo
-Lag et public/private repo og push koden ditt. 
+Lag et public/private repo og push koden dit. 
 
 
