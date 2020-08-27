@@ -1,11 +1,8 @@
 # Tree-assignment - Mestergruppen hjemmeoppgave i frontend/react
-I denne oppgaven ønsker vi å teste dere i react. 
+I denne oppgaven ønsker vi å teste deg i React. Vi ønsker at du lager et produktsøk-view med fokus på filtrering av søkeresultatet. Vi ønsker ikke at du bruker et ferdig bibliotek for å lage "tree-view" i sidebar. 
 
-NB! VI ønsker ikke at du bruker et ferdig bibliotek for å lage "tree-view" i sidebar. 
 
-Vi ønsker at du lager et produktsøk-view med fokus på filtrering av søkeresultatet.
-
-Siden skal bestå av 3 elementer. En header, en left-sidebar og en produktliste-view. (Se skisse på figma: https://www.figma.com/file/CToNjuRLFzhq8A89SzH5KN/Tree-view?node-id=0%3A1) (beklager dårlig figma skills)
+Siden skal bestå av 3 elementer. En header, en left-sidebar og en produktliste-view. (Se skisse på figma: https://www.figma.com/file/CToNjuRLFzhq8A89SzH5KN/Tree-view?node-id=0%3A1) (beklager for dårlig figma ferdigheter)
 
 # Data
 I /src/data finner dere 2 json filer. 
