@@ -1,7 +1,7 @@
 # Tree-assignment - Mestergruppen hjemmeoppgave i frontend/react
 I denne oppgaven ønsker vi å teste dere i react. 
-NB! Vi ønsker ikke at du kjører gjør en npm run eject eller react-scripts eject. 
-NB! VI ønsker heller ikke at du bruker et ferdig bibliotek for å lage "tree-view" i sidebar. 
+
+NB! VI ønsker ikke at du bruker et ferdig bibliotek for å lage "tree-view" i sidebar. 
 
 Vi ønsker at du lager et produktsøk-view med fokus på filtrering av søkeresultatet.
 
