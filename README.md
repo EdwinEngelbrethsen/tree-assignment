@@ -39,7 +39,8 @@ Du kan også lage css'en selv, eller du kan bruke styled-components.
 - Sturktur og orden i kode.
 
 
-# For å kjøre applikasjonen
+# Hvordan komme i gang
+Clone / Fork prosjektet
 ```
 $ npm install
 $ npm start
