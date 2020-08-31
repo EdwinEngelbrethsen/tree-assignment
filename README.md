@@ -6,7 +6,8 @@ Siden skal bestå av 3 elementer:
 * En header
 * En left-sidebar
 * Et produktliste-view
-(Se skisse på figma: https://www.figma.com/file/CToNjuRLFzhq8A89SzH5KN/Tree-view?node-id=0%3A1) (beklager dårlig figma ferdigheter)
+
+Se skisse på figma: https://www.figma.com/file/CToNjuRLFzhq8A89SzH5KN/Tree-view?node-id=0%3A1
 
 # Data
 I `/src/data` finner du 2 json filer:
