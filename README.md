@@ -69,11 +69,7 @@ const Component = () => {
 
 ```
 
-# Levering (velg 1 av 2)
-## Fork
-Fork vårt prosjekt og push på din egen repo. 
-
+# Levering
 ## Eget github repo
 Lag et public/private repo og push koden dit. 
-
-
+Inviter [kennetvu](https://github.com/kennetvu), [joachse](https://github.com/joachse) og [anslaae](https://github.com/anslaae) til repoet ditt. 
