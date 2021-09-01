@@ -1,17 +1,10 @@
 import React from 'react'
 import styled from 'styled-components'
 
-
-const Header = () => {
-
-    const HeaderBar = styled.div`
-    display: flex;
-    justify-content: flex-start;
-    align-items: flex-start;
-    flex-direction: row;
-
+const HeaderBar = styled.div`
     background-color: #3E8AAF;
     top: 100%;
+    grid-column: 1 / 3;
 `;
     const Title = styled.h1`
         margin: 0;
@@ -20,6 +13,8 @@ const Header = () => {
 
         color: white;
     `;
+
+const Header = () => {
 
     return ( 
         <HeaderBar>
